@@ -1,0 +1,1809 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.programiz.com/python-programming/online-compiler/
+Subject: Online Python Compiler (Interpreter)
+Date: Fri, 25 Sep 2020 13:19:13 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--n3R5o8AWGuoDqLpIyd0k0mkyNN0WOitaFHsRVgZChX----"
+
+
+------MultipartBoundary--n3R5o8AWGuoDqLpIyd0k0mkyNN0WOitaFHsRVgZChX----
+Content-Type: text/html
+Content-ID: <frame-7DED825443C45EA35CF3BE9D2B631ADE@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.programiz.com/python-programming/online-compiler/
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-4512376a-7b5a-4f81-bb96-85d9e4fe2c5c@mhtml.blink" /><link rel=3D"s=
+tylesheet" type=3D"text/css" href=3D"cid:css-2d969b36-0b9d-46ee-8406-3026bb=
+aa1bf0@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"ci=
+d:css-6147ca47-ad85-4f50-b510-3d2dd8df474d@mhtml.blink" /><link rel=3D"styl=
+esheet" type=3D"text/css" href=3D"cid:css-6b7bf048-1baa-4e5d-89bf-6a4232ede=
+2d1@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:c=
+ss-c3993382-ce30-46ca-92e9-de43ecb9a20c@mhtml.blink" />
+    <title>Online Python Compiler (Interpreter)</title>
+    <link rel=3D"shortcut icon" href=3D"https://cdn.programiz.com/sites/tut=
+orial2program/files/programiz-favicon_3.png" type=3D"image/png">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, user-scalable=3D0">
+    <link rel=3D"canonical" href=3D"https://www.programiz.com/python-progra=
+mming/online-compiler/">    <meta name=3D"description" content=3D"Write and=
+ run Python code using our online compiler (interpreter). You can use Pytho=
+n Shell like IDLE, and take inputs from the user in our Python compiler.">
+   =20
+    <!-- Buy sellads CSS-->
+   =20
+
+    <!-- Generated using https://dns-prefetch-generator.github.io/ -->
+    <meta http-equiv=3D"x-dns-prefetch-control" content=3D"on">
+    <link rel=3D"dns-prefetch" href=3D"https://www.googletagservices.com/">
+    <link rel=3D"dns-prefetch" href=3D"https://www.google-analytics.com/">
+    <link rel=3D"dns-prefetch" href=3D"https://c.amazon-adsystem.com/">
+    <link rel=3D"dns-prefetch" href=3D"https://dsh7ky7308k4b.cloudfront.net=
+/">
+    <link rel=3D"dns-prefetch" href=3D"https://securepubads.g.doubleclick.n=
+et/">
+    <link rel=3D"dns-prefetch" href=3D"https://adservice.google.com/">
+    <link rel=3D"dns-prefetch" href=3D"https://cdnjs.cloudflare.com/">
+    <link rel=3D"dns-prefetch" href=3D"https://www.googletagmanager.com/">
+
+    <link rel=3D"stylesheet" href=3D"https://www.programiz.com/python-progr=
+amming/online-compiler/playground.css?v=3D1fsaf">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <!-- Header tags for ad start -->
+   =20
+   =20
+   =20
+    <!-- Header tags for ad end -->
+  </head>
+
+  <body>
+    <!-- <select id=3D"language-changer"></select> -->
+    <div class=3D"container dark-mode" id=3D"root" data-lang=3D"python">
+      <div class=3D"spinner" style=3D"display: none;">
+        <div class=3D"loader"><span>{</span><span>}</span></div>
+      </div>
+      <div class=3D"mobile-nav-drawer show">
+        <div class=3D"nav-backdrop">
+        </div>
+        <div class=3D"nav-menu">
+          <div class=3D"nav-header-wrapper">
+              <div class=3D"nav-logo-title-wrapper">
+                <a href=3D"https://www.programiz.com/" target=3D"_blank" cl=
+ass=3D"nav-logo-link">
+                  <img id=3D"nav-logo" src=3D"https://www.programiz.com/pyt=
+hon-programming/online-compiler/assets/logos/logo-inverted.svg">
+                </a>
+              </div>
+            <button type=3D"button" class=3D"close-nav-btn" title=3D"Close =
+navigation">
+              <svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" height=
+=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" class=3D"svg replaced-svg">
+<path d=3D"M19 4.85352L5.00006 18.8535" stroke=3D"#25265E" stroke-opacity=
+=3D"0.7" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"rou=
+nd"></path>
+<path d=3D"M5 4.85352L18.9999 18.8535" stroke=3D"#25265E" stroke-opacity=3D=
+"0.7" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round"=
+></path>
+</svg>
+            </button>
+          </div>
+          <div class=3D"nav-menu-list">
+            <a target=3D"_blank" href=3D"https://www.programiz.com/python-p=
+rogramming/online-compiler/" class=3D"change-lang-row python active" title=
+=3D"Python Online Compiler">
+              <span class=3D"change-lang-btn">
+                <svg xmlns=3D"http://www.w3.org/2000/svg" fill=3D"none" vie=
+wBox=3D"0 0 24 25" class=3D"change-lang-btn-icon svg replaced-svg">
+  <path fill-opacity=3D".4" d=3D"M9.091 11.663h5.782c1.61 0 2.877-1.353 2.8=
+77-2.96V3.225c0-1.559-1.315-2.73-2.886-2.99A18.088 18.088 0 0011.853 0a16.2=
+5 16.25 0 00-2.738.235c-2.45.43-2.866 1.33-2.866 2.99v2.132H12v.788H4.025C2=
+.342 6.145.868 7.152.408 9.064c-.532 2.191-.556 3.531 0 5.82.411 1.702 1.39=
+4 2.888 3.076 2.888h1.972V15.2c0-1.9 1.672-3.538 3.635-3.538zm-.364-7.707c-=
+.6 0-1.087-.489-1.087-1.093 0-.606.486-1.1 1.087-1.1.597 0 1.086.494 1.086 =
+1.1a1.09 1.09 0 01-1.086 1.093zm14.83 5.108c-.416-1.665-1.21-2.919-2.895-2.=
+919h-2.118v2.558c0 1.98-1.744 3.551-3.671 3.551H9.091c-1.584 0-2.842 1.444-=
+2.842 3.02v5.479c0 1.558 1.338 2.475 2.868 2.923 1.833.535 3.568.632 5.76 0=
+ 1.458-.42 2.873-1.264 2.873-2.923V18.56H12v-.788h8.662c1.682 0 2.31-1.138 =
+2.895-2.89.604-1.801.578-3.506 0-5.818zm-8.32 10.958c.6 0 1.087.488 1.087 1=
+.093 0 .606-.486 1.1-1.087 1.1a1.095 1.095 0 01-1.086-1.1 1.09 1.09 0 011.0=
+86-1.093z"></path>
+</svg>
+              </span>
+              <span class=3D"nav-menu-text">
+                Python Online Compiler
+              </span>
+            </a>
+            <a target=3D"_blank" href=3D"https://www.programiz.com/c-progra=
+mming/online-compiler/" class=3D"change-lang-row c " title=3D"C Online Comp=
+iler">
+              <span class=3D"change-lang-btn">
+                <svg xmlns=3D"http://www.w3.org/2000/svg" fill=3D"none" vie=
+wBox=3D"0 0 24 28" class=3D"change-lang-btn-icon svg replaced-svg">
+  <path fill-opacity=3D".4" d=3D"M23.903 6.916l.067-.044c-.134-.243-.334-.4=
+64-.534-.574L12.696.155C12.518.045 12.274 0 12.007 0c-.267 0-.511.066-.69.1=
+55L.646 6.32C.267 6.54 0 7.093 0 7.513v12.308c0 .243.044.508.2.752l-.044.02=
+2c.11.176.266.331.422.42l10.718 6.165c.178.11.422.154.689.154.267 0 .511-.0=
+66.69-.154l10.672-6.165c.378-.221.645-.774.645-1.194V7.491c.022-.177 0-.376=
+-.089-.575zM12.007 19.07a5.455 5.455 0 004.736-2.74l2.869 1.68a8.794 8.794 =
+0 01-7.605 4.374c-4.847 0-8.783-3.91-8.783-8.728 0-4.817 3.936-8.728 8.783-=
+8.728a8.796 8.796 0 017.627 4.42l-2.89 1.656a5.43 5.43 0 00-4.737-2.762c-3.=
+002 0-5.448 2.431-5.448 5.414 0 2.983 2.446 5.414 5.448 5.414z"></path>
+</svg>
+              </span>
+              <span class=3D"nav-menu-text">
+                C Online Compiler
+              </span>
+            </a>
+            <a target=3D"_blank" href=3D"https://www.programiz.com/cpp-prog=
+ramming/online-compiler/" class=3D"change-lang-row cpp " title=3D"C++ Onlin=
+e Compiler">
+              <span class=3D"change-lang-btn">
+                <svg xmlns=3D"http://www.w3.org/2000/svg" fill=3D"none" vie=
+wBox=3D"0 0 24 27" class=3D"change-lang-btn-icon svg replaced-svg">
+  <path fill=3D"#25265E" fill-opacity=3D".4" d=3D"M23.903 6.639l.067-.043c-=
+.134-.233-.334-.445-.534-.551L12.696.148C12.518.042 12.274 0 12.007 0a1.64 =
+1.64 0 00-.69.148L.646 6.066C.267 6.278 0 6.808 0 7.21v11.814c0 .233.044.48=
+8.2.72l-.044.022c.11.17.266.318.422.403l10.718 5.918c.178.106.422.148.689.1=
+48.267 0 .511-.064.69-.148l10.672-5.918c.378-.212.645-.742.645-1.145V7.19c.=
+022-.17 0-.36-.089-.551zm-7.893 6.893v-.849h1.111v-1.06h1.112v1.06h1.112v.8=
+49h-1.112v1.06h-1.112v-1.06H16.01zm.733-2.97c-.934-1.59-2.712-2.65-4.736-2.=
+65-3.002 0-5.448 2.332-5.448 5.195 0 2.864 2.446 5.197 5.448 5.197 2.024 0 =
+3.802-1.06 4.736-2.63l2.869 1.612c-1.512 2.502-4.358 4.2-7.605 4.2-4.847 0-=
+8.783-3.755-8.783-8.379 0-4.623 3.936-8.377 8.783-8.377 3.269 0 6.115 1.718=
+ 7.627 4.242l-2.89 1.59zm6.604 2.97h-1.112v1.06h-.889v-1.06h-1.334v-.849h1.=
+334v-1.06h.89v1.06h1.111v.849z"></path>
+</svg>
+              </span>
+              <span class=3D"nav-menu-text">
+                C++ Online Compiler
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class=3D"wrapper" style=3D"display: block;">
+        <div class=3D"header">
+          <div class=3D"header-wrapper">
+            <div class=3D"burger-menu">
+              <button type=3D"button" class=3D"burger-menu-btn" title=3D"Op=
+en navigation">
+                <svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" heig=
+ht=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" class=3D"svg burger-menu-btn-=
+icon replaced-svg">
+  <path d=3D"M3 12H21" stroke=3D"#25265E" stroke-opacity=3D"0.7" stroke-wid=
+th=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round"></path>
+  <path d=3D"M3 6H21" stroke=3D"#25265E" stroke-opacity=3D"0.7" stroke-widt=
+h=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round"></path>
+  <path d=3D"M3 18H21" stroke=3D"#25265E" stroke-opacity=3D"0.7" stroke-wid=
+th=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round"></path>
+</svg>
+              </button>
+            </div>
+            <div class=3D"logo-wrapper">
+              <h1 class=3D"logo-title-wrapper">
+                <a href=3D"https://www.programiz.com/" target=3D"_blank" cl=
+ass=3D"logo-link">
+                  <img id=3D"logo" src=3D"https://www.programiz.com/python-=
+programming/online-compiler/assets/logos/logo-inverted.svg">
+                  <span class=3D"logo-sub-title-wrapper">
+                    <span class=3D"logo-sub-title">Python Online Compiler</=
+span>
+                  </span>
+                </a>
+              </h1>
+            </div>
+          </div>
+          <div class=3D"compiler-header-ad">
+            <div id=3D"div-gpt-ad-Programizcom36786" class=3D"content-top-a=
+d" style=3D"display: none;">
+             =20
+            </div>
+
+            <!-- buysell ads -->
+                <div class=3D"compiler-header-ad" id=3D"carbon-block"></div=
+>
+               =20
+
+          </div>
+          <div id=3D"add-replacement"></div>
+          <div id=3D"feedback-desktop">
+            <a id=3D"ad-link" href=3D"https://app.programiz.com/app-compile=
+r">&nbsp;Learn Python App</a>
+          </div>
+          <div id=3D"feedback-mobile">
+            <a id=3D"mobile-ad-link" href=3D"https://app.programiz.com/app-=
+compiler">&nbsp;Learn Python</a>
+          </div>
+        </div>
+        <div class=3D"mobile-top-bar clearfix">
+          <div class=3D"options-wrapper">
+            <div id=3D"back-button" class=3D"options-item-wrapper clearfix"=
+>
+              <svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"17" height=
+=3D"14" viewBox=3D"0 0 17 14" fill=3D"none" class=3D"svg options-item repla=
+ced-svg">
+<path d=3D"M6.05625 13.3906C6.38169 13.716 6.90933 13.716 7.23476 13.3906L7=
+.51458 13.1107C7.84002 12.7853 7.84002 12.2577 7.51458 11.9322L3.83301 8.25=
+065C3.75613 8.17377 3.81058 8.04232 3.9193 8.04232L15.4997 8.04232C15.9599 =
+8.04232 16.333 7.66922 16.333 7.20898L16.333 6.79232C16.333 6.33208 15.9599=
+ 5.95898 15.4997 5.95898L3.9193 5.95898C3.81058 5.95898 3.75613 5.82753 3.8=
+3301 5.75065L7.51459 2.06907C7.84002 1.74364 7.84002 1.216 7.51459 0.890562=
+L7.23476 0.61074C6.90933 0.285303 6.38169 0.285303 6.05625 0.610739L0.25559=
+8 6.41139C-0.0698398 6.73683 -0.0698398 7.26447 0.255598 7.5899L6.05625 13.=
+3906Z" fill=3D"#25265E" fill-opacity=3D"0.4"></path>
+</svg>
+            </div>
+          </div>
+          <div class=3D"pills-wrapper">
+            <div class=3D"pills clearfix">
+              <button class=3D"pill compiler-pill active">
+                main.py              </button>
+              <button class=3D"pill shell-pill">
+                Shell              </button>
+            </div>
+          </div>
+          <div class=3D"other-options-wrapper">
+            <!-- <div id=3D"feedback-mobile" class=3D"options-item-wrapper"=
+>
+              <a href=3D"https://programiz.com/contact" class=3D"options-it=
+em">
+                <img class=3D"svg" src=3D"assets/icons/message-square.svg" =
+/>
+              </a>
+            </div> -->
+            <div id=3D"toggle-dark-mode-mobile" class=3D"options-item-wrapp=
+er clearfix">
+              <svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" height=
+=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"tog=
+gle-dark-mode-mobile-icon moon svg options-item replaced-svg">
+  <path d=3D"M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+</svg>
+              <svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" height=
+=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"tog=
+gle-dark-mode-mobile-icon sun svg options-item replaced-svg">
+  <circle cx=3D"12" cy=3D"12" r=3D"5"></circle>
+  <line x1=3D"12" y1=3D"1" x2=3D"12" y2=3D"3"></line>
+  <line x1=3D"12" y1=3D"21" x2=3D"12" y2=3D"23"></line>
+  <line x1=3D"4.22" y1=3D"4.22" x2=3D"5.64" y2=3D"5.64"></line>
+  <line x1=3D"18.36" y1=3D"18.36" x2=3D"19.78" y2=3D"19.78"></line>
+  <line x1=3D"1" y1=3D"12" x2=3D"3" y2=3D"12"></line>
+  <line x1=3D"21" y1=3D"12" x2=3D"23" y2=3D"12"></line>
+  <line x1=3D"4.22" y1=3D"19.78" x2=3D"5.64" y2=3D"18.36"></line>
+  <line x1=3D"18.36" y1=3D"5.64" x2=3D"19.78" y2=3D"4.22"></line>
+</svg>
+            </div>
+          </div>
+        </div>
+        <div class=3D"sidebar-wrapper">
+          <a target=3D"_blank" href=3D"https://www.programiz.com/python-pro=
+gramming/online-compiler/" class=3D"change-lang-btn python active" title=3D=
+"Online Python Compiler">
+            <svg xmlns=3D"http://www.w3.org/2000/svg" fill=3D"none" viewBox=
+=3D"0 0 24 25" class=3D"change-lang-btn-icon svg replaced-svg">
+  <path fill-opacity=3D".4" d=3D"M9.091 11.663h5.782c1.61 0 2.877-1.353 2.8=
+77-2.96V3.225c0-1.559-1.315-2.73-2.886-2.99A18.088 18.088 0 0011.853 0a16.2=
+5 16.25 0 00-2.738.235c-2.45.43-2.866 1.33-2.866 2.99v2.132H12v.788H4.025C2=
+.342 6.145.868 7.152.408 9.064c-.532 2.191-.556 3.531 0 5.82.411 1.702 1.39=
+4 2.888 3.076 2.888h1.972V15.2c0-1.9 1.672-3.538 3.635-3.538zm-.364-7.707c-=
+.6 0-1.087-.489-1.087-1.093 0-.606.486-1.1 1.087-1.1.597 0 1.086.494 1.086 =
+1.1a1.09 1.09 0 01-1.086 1.093zm14.83 5.108c-.416-1.665-1.21-2.919-2.895-2.=
+919h-2.118v2.558c0 1.98-1.744 3.551-3.671 3.551H9.091c-1.584 0-2.842 1.444-=
+2.842 3.02v5.479c0 1.558 1.338 2.475 2.868 2.923 1.833.535 3.568.632 5.76 0=
+ 1.458-.42 2.873-1.264 2.873-2.923V18.56H12v-.788h8.662c1.682 0 2.31-1.138 =
+2.895-2.89.604-1.801.578-3.506 0-5.818zm-8.32 10.958c.6 0 1.087.488 1.087 1=
+.093 0 .606-.486 1.1-1.087 1.1a1.095 1.095 0 01-1.086-1.1 1.09 1.09 0 011.0=
+86-1.093z"></path>
+</svg>
+          </a>
+          <a target=3D"_blank" href=3D"https://www.programiz.com/c-programm=
+ing/online-compiler/" class=3D"change-lang-btn c " title=3D"Online C Compil=
+er">
+            <svg xmlns=3D"http://www.w3.org/2000/svg" fill=3D"none" viewBox=
+=3D"0 0 24 28" class=3D"change-lang-btn-icon svg replaced-svg">
+  <path fill-opacity=3D".4" d=3D"M23.903 6.916l.067-.044c-.134-.243-.334-.4=
+64-.534-.574L12.696.155C12.518.045 12.274 0 12.007 0c-.267 0-.511.066-.69.1=
+55L.646 6.32C.267 6.54 0 7.093 0 7.513v12.308c0 .243.044.508.2.752l-.044.02=
+2c.11.176.266.331.422.42l10.718 6.165c.178.11.422.154.689.154.267 0 .511-.0=
+66.69-.154l10.672-6.165c.378-.221.645-.774.645-1.194V7.491c.022-.177 0-.376=
+-.089-.575zM12.007 19.07a5.455 5.455 0 004.736-2.74l2.869 1.68a8.794 8.794 =
+0 01-7.605 4.374c-4.847 0-8.783-3.91-8.783-8.728 0-4.817 3.936-8.728 8.783-=
+8.728a8.796 8.796 0 017.627 4.42l-2.89 1.656a5.43 5.43 0 00-4.737-2.762c-3.=
+002 0-5.448 2.431-5.448 5.414 0 2.983 2.446 5.414 5.448 5.414z"></path>
+</svg>
+          </a>
+          <a target=3D"_blank" href=3D"https://www.programiz.com/cpp-progra=
+mming/online-compiler/" class=3D"change-lang-btn cpp " title=3D"Online C++ =
+Compiler">
+            <svg xmlns=3D"http://www.w3.org/2000/svg" fill=3D"none" viewBox=
+=3D"0 0 24 27" class=3D"change-lang-btn-icon svg replaced-svg">
+  <path fill=3D"#25265E" fill-opacity=3D".4" d=3D"M23.903 6.639l.067-.043c-=
+.134-.233-.334-.445-.534-.551L12.696.148C12.518.042 12.274 0 12.007 0a1.64 =
+1.64 0 00-.69.148L.646 6.066C.267 6.278 0 6.808 0 7.21v11.814c0 .233.044.48=
+8.2.72l-.044.022c.11.17.266.318.422.403l10.718 5.918c.178.106.422.148.689.1=
+48.267 0 .511-.064.69-.148l10.672-5.918c.378-.212.645-.742.645-1.145V7.19c.=
+022-.17 0-.36-.089-.551zm-7.893 6.893v-.849h1.111v-1.06h1.112v1.06h1.112v.8=
+49h-1.112v1.06h-1.112v-1.06H16.01zm.733-2.97c-.934-1.59-2.712-2.65-4.736-2.=
+65-3.002 0-5.448 2.332-5.448 5.195 0 2.864 2.446 5.197 5.448 5.197 2.024 0 =
+3.802-1.06 4.736-2.63l2.869 1.612c-1.512 2.502-4.358 4.2-7.605 4.2-4.847 0-=
+8.783-3.755-8.783-8.379 0-4.623 3.936-8.377 8.783-8.377 3.269 0 6.115 1.718=
+ 7.627 4.242l-2.89 1.59zm6.604 2.97h-1.112v1.06h-.889v-1.06h-1.334v-.849h1.=
+334v-1.06h.89v1.06h1.111v.849z"></path>
+</svg>
+          </a>
+        </div>
+        <div class=3D"editor-wrapper" style=3D"">
+          <div class=3D"editor-desktop-top-bar">
+            <div class=3D"file-name">main.py</div>
+            <div class=3D"desktop-top-bar__btn-wrapper">
+              <button type=3D"button" id=3D"toggle-expanded-mode-desktop" t=
+itle=3D"Enter Fullscreen">
+                <svg xmlns=3D"http://www.w3.org/2000/svg" fill=3D"rgba(37, =
+38, 94, 0.7)" viewBox=3D"0 0 16 16" width=3D"18" height=3D"18" class=3D"tog=
+gle-expanded-mode-mobile-icon expand svg replaced-svg">
+  <path d=3D"M5.038 2.22a.889.889 0 000-1.778v1.777zM.445 5.033a.889.889 0 =
+101.778 0H.445zm13.334 0a.889.889 0 001.777 0H13.78zM10.964.44a.889.889 0 0=
+00 1.778V.441zm0 13.334a.889.889 0 000 1.778v-1.778zm4.592-2.815a.889.889 0=
+ 00-1.777 0h1.777zm-13.333 0a.889.889 0 00-1.778 0h1.778zm2.815 4.593a.889.=
+889 0 000-1.778v1.778zm0-15.111H2.815v1.777h2.223V.442zm-2.223 0a2.37 2.37 =
+0 00-2.37 2.37h1.778c0-.327.265-.593.592-.593V.442zm-2.37 2.37v2.222h1.778V=
+2.812H.445zm15.111 2.222V2.812H13.78v2.222h1.777zm0-2.222a2.37 2.37 0 00-2.=
+37-2.37v1.777c.327 0 .593.265.593.593h1.777zm-2.37-2.37h-2.222v1.777h2.222V=
+.441zm-2.222 15.11h2.222v-1.777h-2.222v1.778zm2.222 0a2.37 2.37 0 002.37-2.=
+37H13.78a.593.593 0 01-.593.593v1.778zm2.37-2.37V10.96H13.78v2.222h1.777zM.=
+446 10.96v2.222h1.777V10.96H.445zm0 2.222a2.37 2.37 0 002.37 2.37v-1.777a.5=
+93.593 0 01-.593-.593H.445zm2.37 2.37h2.222v-1.777H2.816v1.778z" fill-opaci=
+ty=3D".7"></path>
+</svg>
+                <svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 16=
+ 16" width=3D"18" height=3D"18" fill=3D"rgba(37, 38, 94, 0.7)" class=3D"tog=
+gle-expanded-mode-mobile-icon minimize hidden svg replaced-svg">
+  <path fill=3D"#25265E" fill-opacity=3D".7" d=3D"M5.926 1.334a.889.889 0 1=
+0-1.778 0h1.778zM1.333 4.15a.889.889 0 100 1.778V4.149zm13.334 1.778a.889.8=
+89 0 000-1.778v1.778zm-2.815-4.593a.889.889 0 00-1.778 0h1.778zm-1.778 13.3=
+34a.889.889 0 001.778 0h-1.778zm4.593-2.815a.889.889 0 000-1.778v1.778zM1.3=
+34 10.075a.889.889 0 000 1.778v-1.778zm2.814 4.593a.889.889 0 001.778 0H4.1=
+48zm0-13.334v2.223h1.778V1.334H4.148zm0 2.223a.593.593 0 01-.592.592v1.778a=
+2.37 2.37 0 002.37-2.37H4.148zm-.592.592H1.333v1.778h2.223V4.149zm11.11 0h-=
+2.221v1.778h2.222V4.149zm-2.221 0a.593.593 0 01-.593-.593h-1.778a2.37 2.37 =
+0 002.37 2.37V4.15zm-.593-.593V1.334h-1.778v2.222h1.778zm0 11.112v-2.222h-1=
+.778v2.222h1.778zm0-2.222c0-.328.265-.593.593-.593v-1.778a2.37 2.37 0 00-2.=
+37 2.37h1.777zm.593-.593h2.222v-1.778h-2.222v1.778zm-11.111 0h2.222v-1.778H=
+1.334v1.778zm2.222 0c.327 0 .592.265.592.593h1.778a2.37 2.37 0 00-2.37-2.37=
+v1.777zm.592.593v2.222h1.778v-2.222H4.148z"></path>
+</svg>
+              </button>
+              <button type=3D"button" id=3D"toggle-dark-mode-desktop" title=
+=3D"Toggle light mode">
+                <svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" heig=
+ht=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" strok=
+e-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"t=
+oggle-dark-mode-mobile-icon moon svg replaced-svg">
+  <path d=3D"M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+</svg>
+                <svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" heig=
+ht=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" strok=
+e-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"t=
+oggle-dark-mode-mobile-icon sun svg replaced-svg">
+  <circle cx=3D"12" cy=3D"12" r=3D"5"></circle>
+  <line x1=3D"12" y1=3D"1" x2=3D"12" y2=3D"3"></line>
+  <line x1=3D"12" y1=3D"21" x2=3D"12" y2=3D"23"></line>
+  <line x1=3D"4.22" y1=3D"4.22" x2=3D"5.64" y2=3D"5.64"></line>
+  <line x1=3D"18.36" y1=3D"18.36" x2=3D"19.78" y2=3D"19.78"></line>
+  <line x1=3D"1" y1=3D"12" x2=3D"3" y2=3D"12"></line>
+  <line x1=3D"21" y1=3D"12" x2=3D"23" y2=3D"12"></line>
+  <line x1=3D"4.22" y1=3D"19.78" x2=3D"5.64" y2=3D"18.36"></line>
+  <line x1=3D"18.36" y1=3D"5.64" x2=3D"19.78" y2=3D"4.22"></line>
+</svg>
+              </button>
+              <button class=3D"desktop-run-button run">
+                &nbsp;Run&nbsp;
+              </button>
+            </div>
+          </div>
+          <button class=3D"mobile-run-button run">
+            Run
+          </button>
+          <div id=3D"editor" class=3D" ace_editor ace-twilight ace_dark" st=
+yle=3D"font-family: droid_sans_monoregular; font-size: 14px; line-height: 2=
+2px; height: 110px;"><textarea class=3D"ace_text-input" wrap=3D"off" autoco=
+rrect=3D"off" autocapitalize=3D"off" spellcheck=3D"false" style=3D"opacity:=
+ 0; font-size: 1px; height: 1px; width: 1px; top: 109px; left: 133px;"></te=
+xtarea><div class=3D"ace_gutter" aria-hidden=3D"true" style=3D"left: 0px; w=
+idth: 41px;"><div class=3D"ace_layer ace_gutter-layer ace_folding-enabled" =
+style=3D"height: 1e+06px; top: 0px; left: 0px; width: 41px;"><div class=3D"=
+ace_gutter-cell " style=3D"height: 22px; top: 0px;">1<span style=3D"display=
+: none;"></span></div><div class=3D"ace_gutter-cell " style=3D"height: 22px=
+; top: 22px;">2<span style=3D"display: none;"></span></div><div class=3D"ac=
+e_gutter-cell " style=3D"height: 22px; top: 44px;">3<span style=3D"display:=
+ none;"></span></div><div class=3D"ace_gutter-cell " style=3D"height: 22px;=
+ top: 66px;">4<span style=3D"display: none;"></span></div><div class=3D"ace=
+_gutter-cell ace_gutter-active-line " style=3D"height: 22px; top: 88px;">5<=
+span style=3D"display: none;"></span></div></div></div><div class=3D"ace_sc=
+roller" style=3D"line-height: 22px; left: 41px; right: 0px; bottom: 0px;"><=
+div class=3D"ace_content" style=3D"top: 0px; left: 0px; width: 729px; heigh=
+t: 154px;"><div class=3D"ace_layer ace_print-margin-layer"><div class=3D"ac=
+e_print-margin" style=3D"left: 644px; visibility: hidden;"></div></div><div=
+ class=3D"ace_layer ace_marker-layer"><div class=3D"ace_active-line" style=
+=3D"height: 22px; top: 88px; left: 0px; right: 0px;"></div><div class=3D"ac=
+e_bracket ace_start ace_br15" style=3D"height: 22px; width: 8px; top: 88px;=
+ left: 84px;"></div><div class=3D"ace_bracket ace_start ace_br15" style=3D"=
+height: 22px; width: 8px; top: 88px; left: 44px;"></div></div><div class=3D=
+"ace_layer ace_text-layer" style=3D"height: 1e+06px; margin: 0px 4px; top: =
+0px; left: 0px;"><div class=3D"ace_line_group" style=3D"height: 22px; top: =
+0px;"><div class=3D"ace_line" style=3D"height: 22px;"><span class=3D"ace_ke=
+yword">import</span> <span class=3D"ace_identifier">numpy</span> <span clas=
+s=3D"ace_keyword">as</span> <span class=3D"ace_identifier">np</span></div><=
+/div><div class=3D"ace_line_group" style=3D"height: 22px; top: 22px;"><div =
+class=3D"ace_line" style=3D"height: 22px;"><span class=3D"ace_identifier">A=
+</span> <span class=3D"ace_keyword ace_operator">=3D</span> <span class=3D"=
+ace_identifier">np</span><span class=3D"ace_punctuation">.</span><span clas=
+s=3D"ace_function ace_support">random</span><span class=3D"ace_punctuation"=
+>.</span><span class=3D"ace_function ace_support">random</span><span class=
+=3D"ace_paren ace_lparen">((</span><span class=3D"ace_constant ace_numeric"=
+>10</span><span class=3D"ace_punctuation">,</span><span class=3D"ace_consta=
+nt ace_numeric">10</span><span class=3D"ace_paren ace_rparen">))</span></di=
+v></div><div class=3D"ace_line_group" style=3D"height: 22px; top: 44px;"><d=
+iv class=3D"ace_line" style=3D"height: 22px;"><span class=3D"ace_keyword">p=
+rint</span><span class=3D"ace_paren ace_lparen">(</span><span class=3D"ace_=
+identifier">A</span><span class=3D"ace_paren ace_rparen">)</span></div></di=
+v><div class=3D"ace_line_group" style=3D"height: 22px; top: 66px;"><div cla=
+ss=3D"ace_line" style=3D"height: 22px;"><span class=3D"ace_identifier">Amax=
+</span> <span class=3D"ace_keyword ace_operator">=3D</span> <span class=3D"=
+ace_identifier">A</span><span class=3D"ace_punctuation">.</span><span class=
+=3D"ace_function ace_support">max</span><span class=3D"ace_punctuation">,</=
+span> <span class=3D"ace_identifier">A</span><span class=3D"ace_punctuation=
+">.</span><span class=3D"ace_function ace_support">max</span><span class=3D=
+"ace_paren ace_lparen">(</span><span class=3D"ace_paren ace_rparen">)</span=
+></div></div><div class=3D"ace_line_group" style=3D"height: 22px; top: 88px=
+;"><div class=3D"ace_line" style=3D"height: 22px;"><span class=3D"ace_keywo=
+rd">print</span><span class=3D"ace_paren ace_lparen">(</span><span class=3D=
+"ace_identifier">Amax</span><span class=3D"ace_paren ace_rparen">)</span></=
+div></div></div><div class=3D"ace_layer ace_marker-layer"></div><div class=
+=3D"ace_layer ace_cursor-layer ace_hidden-cursors"><div class=3D"ace_cursor=
+" style=3D"display: block; top: 88px; left: 92px; width: 8px; height: 22px;=
+ animation-duration: 1000ms;"></div></div></div></div><div class=3D"ace_scr=
+ollbar ace_scrollbar-v" style=3D"display: none; width: 22px; bottom: 0px;">=
+<div class=3D"ace_scrollbar-inner" style=3D"width: 22px; height: 110px;">&n=
+bsp;</div></div><div class=3D"ace_scrollbar ace_scrollbar-h" style=3D"displ=
+ay: none; height: 22px; left: 41px; right: 0px;"><div class=3D"ace_scrollba=
+r-inner" style=3D"height: 22px; width: 729px;">&nbsp;</div></div><div style=
+=3D"height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; pos=
+ition: absolute; white-space: pre; font: inherit; overflow: hidden;"><div s=
+tyle=3D"height: auto; width: auto; top: 0px; left: 0px; visibility: hidden;=
+ position: absolute; white-space: pre; font: inherit; overflow: visible;">=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94</div><div style=3D"height: auto; width=
+: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-=
+space: pre; font-style: inherit; font-variant: inherit; font-stretch: inher=
+it; font-size: inherit; line-height: inherit; font-family: inherit; overflo=
+w: visible;">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</div></div></div>
+        </div>
+
+        <div class=3D"terminal-wrapper" style=3D"display: none;">
+          <div class=3D"terminal-desktop-top-bar">
+            <div class=3D"shell-name">
+              Shell            </div>
+            <div class=3D"terminal-desktop-top-bar__btn-wrapper">
+              <button class=3D"desktop-clear-button">
+                  &nbsp;Clear&nbsp;
+              </button>
+            </div>
+          </div>
+          <div id=3D"terminal" class=3D" ace_editor ace-twilight ace_dark" =
+style=3D"font-family: droid_sans_monoregular; font-size: 14px; line-height:=
+ 22px; height: 484px;"><textarea class=3D"ace_text-input" wrap=3D"off" auto=
+correct=3D"off" autocapitalize=3D"off" spellcheck=3D"false" style=3D"opacit=
+y: 0; font-size: 1px; height: 1px; width: 1px; top: 483px; left: 20px;"></t=
+extarea><div class=3D"ace_gutter" aria-hidden=3D"true" style=3D"display: no=
+ne; left: 0px; width: 49px;"><div class=3D"ace_layer ace_gutter-layer ace_f=
+olding-enabled" style=3D"height: 1e+06px; top: 0px; left: 0px; width: 49px;=
+"><div class=3D"ace_gutter-cell " style=3D"height: 22px; top: 0px;">1<span =
+style=3D"display: none;"></span></div><div class=3D"ace_gutter-cell " style=
+=3D"height: 22px; top: 22px;">2<span style=3D"display: none;"></span></div>=
+<div class=3D"ace_gutter-cell " style=3D"height: 22px; top: 44px;">3<span s=
+tyle=3D"display: none;"></span></div><div class=3D"ace_gutter-cell " style=
+=3D"height: 22px; top: 66px;">4<span style=3D"display: none;"></span></div>=
+<div class=3D"ace_gutter-cell " style=3D"height: 22px; top: 88px;">5<span s=
+tyle=3D"display: none;"></span></div><div class=3D"ace_gutter-cell " style=
+=3D"height: 22px; top: 110px;">6<span style=3D"display: none;"></span></div=
+><div class=3D"ace_gutter-cell " style=3D"height: 22px; top: 132px;">7<span=
+ style=3D"display: none;"></span></div><div class=3D"ace_gutter-cell " styl=
+e=3D"height: 22px; top: 154px;">8<span style=3D"display: none;"></span></di=
+v><div class=3D"ace_gutter-cell " style=3D"height: 22px; top: 176px;">9<spa=
+n style=3D"display: none;"></span></div><div class=3D"ace_gutter-cell " sty=
+le=3D"height: 22px; top: 198px;">10<span style=3D"display: none;"></span></=
+div><div class=3D"ace_gutter-cell " style=3D"height: 22px; top: 220px;">11<=
+span style=3D"display: none;"></span></div><div class=3D"ace_gutter-cell " =
+style=3D"height: 22px; top: 242px;">12<span style=3D"display: none;"></span=
+></div><div class=3D"ace_gutter-cell " style=3D"height: 22px; top: 264px;">=
+13<span style=3D"display: none;"></span></div><div class=3D"ace_gutter-cell=
+ " style=3D"height: 22px; top: 286px;">14<span style=3D"display: none;"></s=
+pan></div><div class=3D"ace_gutter-cell " style=3D"height: 22px; top: 308px=
+;">15<span style=3D"display: none;"></span></div><div class=3D"ace_gutter-c=
+ell " style=3D"height: 22px; top: 330px;">16<span style=3D"display: none;">=
+</span></div><div class=3D"ace_gutter-cell " style=3D"height: 22px; top: 35=
+2px;">17<span style=3D"display: none;"></span></div><div class=3D"ace_gutte=
+r-cell " style=3D"height: 22px; top: 374px;">18<span style=3D"display: none=
+;"></span></div><div class=3D"ace_gutter-cell " style=3D"height: 22px; top:=
+ 396px;">19<span style=3D"display: none;"></span></div><div class=3D"ace_gu=
+tter-cell " style=3D"height: 22px; top: 418px;">20<span style=3D"display: n=
+one;"></span></div><div class=3D"ace_gutter-cell " style=3D"height: 22px; t=
+op: 440px;">21<span style=3D"display: none;"></span></div><div class=3D"ace=
+_gutter-cell ace_gutter-active-line " style=3D"height: 22px; top: 462px;">2=
+2<span style=3D"display: none;"></span></div></div></div><div class=3D"ace_=
+scroller" style=3D"line-height: 22px; left: 0px; right: 0px; bottom: 0px;">=
+<div class=3D"ace_content" style=3D"top: 0px; left: 0px; width: 770px; heig=
+ht: 528px;"><div class=3D"ace_layer ace_print-margin-layer"><div class=3D"a=
+ce_print-margin" style=3D"left: 644px; visibility: hidden;"></div></div><di=
+v class=3D"ace_layer ace_marker-layer"></div><div class=3D"ace_layer ace_te=
+xt-layer" style=3D"height: 1e+06px; margin: 0px 4px; top: 0px; left: 0px;">=
+<div class=3D"ace_line_group" style=3D"height: 22px; top: 0px;"><div class=
+=3D"ace_line" style=3D"height: 22px;">[[0.74504426 0.31711388 0.77069523 0.=
+38626688 0.24177226 0.37408264</div></div><div class=3D"ace_line_group" sty=
+le=3D"height: 22px; top: 22px;"><div class=3D"ace_line" style=3D"height: 22=
+px;">  0.5892862  0.59530958 0.04643479 0.83177267]</div></div><div class=
+=3D"ace_line_group" style=3D"height: 22px; top: 44px;"><div class=3D"ace_li=
+ne" style=3D"height: 22px;"> [0.60222008 0.09318709 0.40451682 0.50251212 0=
+.04981648 0.16490389</div></div><div class=3D"ace_line_group" style=3D"heig=
+ht: 22px; top: 66px;"><div class=3D"ace_line" style=3D"height: 22px;">  0.1=
+3076156 0.85287685 0.12654483 0.519044  ]</div></div><div class=3D"ace_line=
+_group" style=3D"height: 22px; top: 88px;"><div class=3D"ace_line" style=3D=
+"height: 22px;"> [0.82379422 0.07362495 0.57606298 0.95936974 0.40968638 0.=
+22827797</div></div><div class=3D"ace_line_group" style=3D"height: 22px; to=
+p: 110px;"><div class=3D"ace_line" style=3D"height: 22px;">  0.73147657 0.8=
+1059044 0.5497416  0.19023522]</div></div><div class=3D"ace_line_group" sty=
+le=3D"height: 22px; top: 132px;"><div class=3D"ace_line" style=3D"height: 2=
+2px;"> [0.48777778 0.96347694 0.77134406 0.06417698 0.01232934 0.42040643</=
+div></div><div class=3D"ace_line_group" style=3D"height: 22px; top: 154px;"=
+><div class=3D"ace_line" style=3D"height: 22px;">  0.74381086 0.43599461 0.=
+46936252 0.78432491]</div></div><div class=3D"ace_line_group" style=3D"heig=
+ht: 22px; top: 176px;"><div class=3D"ace_line" style=3D"height: 22px;"> [0.=
+84216118 0.1235567  0.06829792 0.95986333 0.0808077  0.80238796</div></div>=
+<div class=3D"ace_line_group" style=3D"height: 22px; top: 198px;"><div clas=
+s=3D"ace_line" style=3D"height: 22px;">  0.09511198 0.12166722 0.44272464 0=
+.24693545]</div></div><div class=3D"ace_line_group" style=3D"height: 22px; =
+top: 220px;"><div class=3D"ace_line" style=3D"height: 22px;"> [0.0405961  0=
+.75603962 0.87844168 0.9230252  0.83625969 0.78338542</div></div><div class=
+=3D"ace_line_group" style=3D"height: 22px; top: 242px;"><div class=3D"ace_l=
+ine" style=3D"height: 22px;">  0.57261303 0.62372687 0.90335729 0.47613748]=
+</div></div><div class=3D"ace_line_group" style=3D"height: 22px; top: 264px=
+;"><div class=3D"ace_line" style=3D"height: 22px;"> [0.15407229 0.88634874 =
+0.85877773 0.92182966 0.72369845 0.24167984</div></div><div class=3D"ace_li=
+ne_group" style=3D"height: 22px; top: 286px;"><div class=3D"ace_line" style=
+=3D"height: 22px;">  0.63733167 0.07547674 0.06002125 0.01781419]</div></di=
+v><div class=3D"ace_line_group" style=3D"height: 22px; top: 308px;"><div cl=
+ass=3D"ace_line" style=3D"height: 22px;"> [0.02065796 0.35784385 0.62301435=
+ 0.37171451 0.4839166  0.71559328</div></div><div class=3D"ace_line_group" =
+style=3D"height: 22px; top: 330px;"><div class=3D"ace_line" style=3D"height=
+: 22px;">  0.41158381 0.46685922 0.7440109  0.0575165 ]</div></div><div cla=
+ss=3D"ace_line_group" style=3D"height: 22px; top: 352px;"><div class=3D"ace=
+_line" style=3D"height: 22px;"> [0.55606088 0.04118118 0.54697054 0.0555089=
+  0.94139878 0.99231888</div></div><div class=3D"ace_line_group" style=3D"h=
+eight: 22px; top: 374px;"><div class=3D"ace_line" style=3D"height: 22px;"> =
+ 0.36409968 0.70213139 0.84325749 0.86892136]</div></div><div class=3D"ace_=
+line_group" style=3D"height: 22px; top: 396px;"><div class=3D"ace_line" sty=
+le=3D"height: 22px;"> [0.58048455 0.13382462 0.64207582 0.99040218 0.484131=
+19 0.84065587</div></div><div class=3D"ace_line_group" style=3D"height: 22p=
+x; top: 418px;"><div class=3D"ace_line" style=3D"height: 22px;">  0.2014468=
+5 0.4526118  0.51757409 0.18481308]]</div></div><div class=3D"ace_line_grou=
+p" style=3D"height: 22px; top: 440px;"><div class=3D"ace_line" style=3D"hei=
+ght: 22px;">(&lt;built-in method max of numpy.ndarray object at 0x7f773a7d3=
+f80&gt;, 0.9923188761927016)</div></div><div class=3D"ace_line_group" style=
+=3D"height: 22px; top: 462px;"><div class=3D"ace_line" style=3D"height: 22p=
+x;"><span class=3D"ace_comment ace_line ace_colons ace_dosbatch">&gt;</span=
+> </div></div></div><div class=3D"ace_layer ace_marker-layer"></div><div cl=
+ass=3D"ace_layer ace_cursor-layer ace_slim-cursors ace_hidden-cursors"><div=
+ class=3D"ace_cursor" style=3D"display: block; top: 462px; left: 20px; widt=
+h: 8px; height: 22px; animation-duration: 1000ms;"></div></div></div></div>=
+<div class=3D"ace_scrollbar ace_scrollbar-v" style=3D"display: none; width:=
+ 22px; bottom: 0px;"><div class=3D"ace_scrollbar-inner" style=3D"width: 22p=
+x; height: 484px;">&nbsp;</div></div><div class=3D"ace_scrollbar ace_scroll=
+bar-h" style=3D"display: none; height: 22px; left: 0px; right: 0px;"><div c=
+lass=3D"ace_scrollbar-inner" style=3D"height: 22px; width: 770px;">&nbsp;</=
+div></div><div style=3D"height: auto; width: auto; top: 0px; left: 0px; vis=
+ibility: hidden; position: absolute; white-space: pre; font: inherit; overf=
+low: hidden;"><div style=3D"height: auto; width: auto; top: 0px; left: 0px;=
+ visibility: hidden; position: absolute; white-space: pre; font: inherit; o=
+verflow: visible;">=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=
+=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=
+=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94=D7=94</div><div style=
+=3D"height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; pos=
+ition: absolute; white-space: pre; font-style: inherit; font-variant: inher=
+it; font-stretch: inherit; font-size: inherit; line-height: inherit; font-f=
+amily: inherit; overflow: visible;">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</div></=
+div></div>
+        </div>
+      </div>
+    </div>
+
+   =20
+    <!-- The use of the cloudflare cdn for all external libraries is intent=
+ial. We are trying to reduce the number
+         of DNS lookups.
+    -->
+   =20
+   =20
+
+   =20
+   =20
+   =20
+   =20
+   =20
+ =20
+
+</body></html>
+------MultipartBoundary--n3R5o8AWGuoDqLpIyd0k0mkyNN0WOitaFHsRVgZChX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-4512376a-7b5a-4f81-bb96-85d9e4fe2c5c@mhtml.blink
+
+@charset "utf-8";
+
+.ace-twilight .ace_gutter { background: rgb(35, 35, 35); color: rgb(226, 22=
+6, 226); }
+
+.ace-twilight .ace_print-margin { width: 1px; background: rgb(35, 35, 35); =
+}
+
+.ace-twilight { background-color: rgb(20, 20, 20); color: rgb(248, 248, 248=
+); }
+
+.ace-twilight .ace_cursor { color: rgb(167, 167, 167); }
+
+.ace-twilight .ace_marker-layer .ace_selection { background: rgba(221, 240,=
+ 255, 0.2); }
+
+.ace-twilight.ace_multiselect .ace_selection.ace_start { box-shadow: rgb(20=
+, 20, 20) 0px 0px 3px 0px; }
+
+.ace-twilight .ace_marker-layer .ace_step { background: rgb(102, 82, 0); }
+
+.ace-twilight .ace_marker-layer .ace_bracket { margin: -1px 0px 0px -1px; b=
+order: 1px solid rgba(255, 255, 255, 0.25); }
+
+.ace-twilight .ace_marker-layer .ace_active-line { background: rgba(255, 25=
+5, 255, 0.03); }
+
+.ace-twilight .ace_gutter-active-line { background-color: rgba(255, 255, 25=
+5, 0.03); }
+
+.ace-twilight .ace_marker-layer .ace_selected-word { border: 1px solid rgba=
+(221, 240, 255, 0.2); }
+
+.ace-twilight .ace_invisible { color: rgba(255, 255, 255, 0.25); }
+
+.ace-twilight .ace_keyword, .ace-twilight .ace_meta { color: rgb(205, 168, =
+105); }
+
+.ace-twilight .ace_constant, .ace-twilight .ace_constant.ace_character, .ac=
+e-twilight .ace_constant.ace_character.ace_escape, .ace-twilight .ace_const=
+ant.ace_other, .ace-twilight .ace_heading, .ace-twilight .ace_markup.ace_he=
+ading, .ace-twilight .ace_support.ace_constant { color: rgb(207, 106, 76); =
+}
+
+.ace-twilight .ace_invalid.ace_illegal { color: rgb(248, 248, 248); backgro=
+und-color: rgba(86, 45, 86, 0.75); }
+
+.ace-twilight .ace_invalid.ace_deprecated { text-decoration: underline; fon=
+t-style: italic; color: rgb(210, 168, 161); }
+
+.ace-twilight .ace_support { color: rgb(155, 133, 157); }
+
+.ace-twilight .ace_fold { background-color: rgb(172, 136, 91); border-color=
+: rgb(248, 248, 248); }
+
+.ace-twilight .ace_support.ace_function { color: rgb(218, 208, 133); }
+
+.ace-twilight .ace_list, .ace-twilight .ace_markup.ace_list, .ace-twilight =
+.ace_storage { color: rgb(249, 238, 152); }
+
+.ace-twilight .ace_entity.ace_name.ace_function, .ace-twilight .ace_meta.ac=
+e_tag, .ace-twilight .ace_variable { color: rgb(172, 136, 91); }
+
+.ace-twilight .ace_string { color: rgb(143, 157, 106); }
+
+.ace-twilight .ace_string.ace_regexp { color: rgb(233, 192, 98); }
+
+.ace-twilight .ace_comment { font-style: italic; color: rgb(95, 90, 96); }
+
+.ace-twilight .ace_variable { color: rgb(117, 135, 166); }
+
+.ace-twilight .ace_xml-pe { color: rgb(73, 73, 73); }
+
+.ace-twilight .ace_indent-guide { background: url("data:image/png;base64,iV=
+BORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWMQERFpYLC1tf0PAAgOA=
+nPnhxyiAAAAAElFTkSuQmCC") right center repeat-y; }
+------MultipartBoundary--n3R5o8AWGuoDqLpIyd0k0mkyNN0WOitaFHsRVgZChX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-2d969b36-0b9d-46ee-8406-3026bbaa1bf0@mhtml.blink
+
+@charset "utf-8";
+
+.error_widget_wrapper { background: inherit; color: inherit; border: none; =
+}
+
+.error_widget { border-top: 2px solid; border-bottom: 2px solid; margin: 5p=
+x 0px; padding: 10px 40px; white-space: pre-wrap; }
+
+.error_widget.ace_error, .error_widget_arrow.ace_error { border-color: rgb(=
+255, 90, 90); }
+
+.error_widget.ace_warning, .error_widget_arrow.ace_warning { border-color: =
+rgb(241, 216, 23); }
+
+.error_widget.ace_info, .error_widget_arrow.ace_info { border-color: rgb(90=
+, 90, 90); }
+
+.error_widget.ace_ok, .error_widget_arrow.ace_ok { border-color: rgb(90, 17=
+0, 90); }
+
+.error_widget_arrow { position: absolute; border-width: 5px; border-style: =
+solid; border-bottom-color: initial; border-image: initial; top: -5px; bord=
+er-top-color: transparent !important; border-right-color: transparent !impo=
+rtant; border-left-color: transparent !important; }
+------MultipartBoundary--n3R5o8AWGuoDqLpIyd0k0mkyNN0WOitaFHsRVgZChX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6147ca47-ad85-4f50-b510-3d2dd8df474d@mhtml.blink
+
+@charset "utf-8";
+
+.ace-tm .ace_gutter { background: rgb(240, 240, 240); color: rgb(51, 51, 51=
+); }
+
+.ace-tm .ace_print-margin { width: 1px; background: rgb(232, 232, 232); }
+
+.ace-tm .ace_fold { background-color: rgb(107, 114, 230); }
+
+.ace-tm { background-color: rgb(255, 255, 255); color: black; }
+
+.ace-tm .ace_cursor { color: black; }
+
+.ace-tm .ace_invisible { color: rgb(191, 191, 191); }
+
+.ace-tm .ace_storage, .ace-tm .ace_keyword { color: blue; }
+
+.ace-tm .ace_constant { color: rgb(197, 6, 11); }
+
+.ace-tm .ace_constant.ace_buildin { color: rgb(88, 72, 246); }
+
+.ace-tm .ace_constant.ace_language { color: rgb(88, 92, 246); }
+
+.ace-tm .ace_constant.ace_library { color: rgb(6, 150, 14); }
+
+.ace-tm .ace_invalid { background-color: rgba(255, 0, 0, 0.1); color: red; =
+}
+
+.ace-tm .ace_support.ace_function { color: rgb(60, 76, 114); }
+
+.ace-tm .ace_support.ace_constant { color: rgb(6, 150, 14); }
+
+.ace-tm .ace_support.ace_type, .ace-tm .ace_support.ace_class { color: rgb(=
+109, 121, 222); }
+
+.ace-tm .ace_keyword.ace_operator { color: rgb(104, 118, 135); }
+
+.ace-tm .ace_string { color: rgb(3, 106, 7); }
+
+.ace-tm .ace_comment { color: rgb(76, 136, 107); }
+
+.ace-tm .ace_comment.ace_doc { color: rgb(0, 102, 255); }
+
+.ace-tm .ace_comment.ace_doc.ace_tag { color: rgb(128, 159, 191); }
+
+.ace-tm .ace_constant.ace_numeric { color: rgb(0, 0, 205); }
+
+.ace-tm .ace_variable { color: rgb(49, 132, 149); }
+
+.ace-tm .ace_xml-pe { color: rgb(104, 104, 91); }
+
+.ace-tm .ace_entity.ace_name.ace_function { color: rgb(0, 0, 162); }
+
+.ace-tm .ace_heading { color: rgb(12, 7, 255); }
+
+.ace-tm .ace_list { color: rgb(185, 6, 144); }
+
+.ace-tm .ace_meta.ace_tag { color: rgb(0, 22, 142); }
+
+.ace-tm .ace_string.ace_regex { color: rgb(255, 0, 0); }
+
+.ace-tm .ace_marker-layer .ace_selection { background: rgb(181, 213, 255); =
+}
+
+.ace-tm.ace_multiselect .ace_selection.ace_start { box-shadow: white 0px 0p=
+x 3px 0px; }
+
+.ace-tm .ace_marker-layer .ace_step { background: rgb(252, 255, 0); }
+
+.ace-tm .ace_marker-layer .ace_stack { background: rgb(164, 229, 101); }
+
+.ace-tm .ace_marker-layer .ace_bracket { margin: -1px 0px 0px -1px; border:=
+ 1px solid rgb(192, 192, 192); }
+
+.ace-tm .ace_marker-layer .ace_active-line { background: rgba(0, 0, 0, 0.07=
+); }
+
+.ace-tm .ace_gutter-active-line { background-color: rgb(220, 220, 220); }
+
+.ace-tm .ace_marker-layer .ace_selected-word { background: rgb(250, 250, 25=
+5); border: 1px solid rgb(200, 200, 250); }
+
+.ace-tm .ace_indent-guide { background: url("data:image/png;base64,iVBORw0K=
+GgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAE0lEQVQImWP4////f4bLly//BwAmVgd1/w1=
+1/gAAAABJRU5ErkJggg=3D=3D") right center repeat-y; }
+------MultipartBoundary--n3R5o8AWGuoDqLpIyd0k0mkyNN0WOitaFHsRVgZChX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6b7bf048-1baa-4e5d-89bf-6a4232ede2d1@mhtml.blink
+
+@charset "utf-8";
+
+.ace_br1 { border-top-left-radius: 3px; }
+
+.ace_br2 { border-top-right-radius: 3px; }
+
+.ace_br3 { border-top-left-radius: 3px; border-top-right-radius: 3px; }
+
+.ace_br4 { border-bottom-right-radius: 3px; }
+
+.ace_br5 { border-top-left-radius: 3px; border-bottom-right-radius: 3px; }
+
+.ace_br6 { border-top-right-radius: 3px; border-bottom-right-radius: 3px; }
+
+.ace_br7 { border-top-left-radius: 3px; border-top-right-radius: 3px; borde=
+r-bottom-right-radius: 3px; }
+
+.ace_br8 { border-bottom-left-radius: 3px; }
+
+.ace_br9 { border-top-left-radius: 3px; border-bottom-left-radius: 3px; }
+
+.ace_br10 { border-top-right-radius: 3px; border-bottom-left-radius: 3px; }
+
+.ace_br11 { border-top-left-radius: 3px; border-top-right-radius: 3px; bord=
+er-bottom-left-radius: 3px; }
+
+.ace_br12 { border-bottom-right-radius: 3px; border-bottom-left-radius: 3px=
+; }
+
+.ace_br13 { border-top-left-radius: 3px; border-bottom-right-radius: 3px; b=
+order-bottom-left-radius: 3px; }
+
+.ace_br14 { border-top-right-radius: 3px; border-bottom-right-radius: 3px; =
+border-bottom-left-radius: 3px; }
+
+.ace_br15 { border-radius: 3px; }
+
+.ace_editor { position: relative; overflow: hidden; padding: 0px; font: 12p=
+x Monaco, Menlo, "Ubuntu Mono", Consolas, source-code-pro, monospace; direc=
+tion: ltr; text-align: left; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);=
+ }
+
+.ace_scroller { position: absolute; overflow: hidden; top: 0px; bottom: 0px=
+; background-color: inherit; user-select: none; cursor: text; }
+
+.ace_content { position: absolute; box-sizing: border-box; min-width: 100%;=
+ contain: size layout style; font-variant-ligatures: no-common-ligatures; }
+
+.ace_dragging .ace_scroller::before { position: absolute; top: 0px; left: 0=
+px; right: 0px; bottom: 0px; content: ""; background: rgba(250, 250, 250, 0=
+.01); z-index: 1000; }
+
+.ace_dragging.ace_dark .ace_scroller::before { background: rgba(0, 0, 0, 0.=
+01); }
+
+.ace_selecting, .ace_selecting * { cursor: text !important; }
+
+.ace_gutter { position: absolute; overflow: hidden; width: auto; top: 0px; =
+bottom: 0px; left: 0px; cursor: default; z-index: 4; user-select: none; con=
+tain: size layout style; }
+
+.ace_gutter-active-line { position: absolute; left: 0px; right: 0px; }
+
+.ace_scroller.ace_scroll-left { box-shadow: rgba(0, 0, 0, 0.4) 17px 0px 16p=
+x -16px inset; }
+
+.ace_gutter-cell { position: absolute; top: 0px; left: 0px; right: 0px; pad=
+ding-left: 19px; padding-right: 6px; background-repeat: no-repeat; }
+
+.ace_gutter-cell.ace_error { background-image: url("data:image/png;base64,i=
+VBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABOFBMVEX/////////QRswFAb/Ui4w=
+FAYwFAYwFAaWGAfDRymzOSH/PxswFAb/SiUwFAYwFAbUPRvjQiDllog5HhHdRybsTi3/Tyv9Tir=
++Syj/UC3////XurebMBIwFAb/RSHbPx/gUzfdwL3kzMivKBAwFAbbvbnhPx66NhowFAYwFAaZJg=
+8wFAaxKBDZurf/RB6mMxb/SCMwFAYwFAbxQB3+RB4wFAb/Qhy4Oh+4QifbNRcwFAYwFAYwFAb/Q=
+RzdNhgwFAYwFAbav7v/Uy7oaE68MBK5LxLewr/r2NXewLswFAaxJw4wFAbkPRy2PyYwFAaxKhLm=
+1tMwFAazPiQwFAaUGAb/QBrfOx3bvrv/VC/maE4wFAbRPBq6MRO8Qynew8Dp2tjfwb0wFAbx6ej=
+u5+by6uns4uH9/f36+vr/GkHjAAAAYnRSTlMAGt+64rnWu/bo8eAA4InH3+DwoN7j4eLi4xP99N=
+fg4+b+/u9B/eDs1MD1mO7+4PHg2MXa347g7vDizMLN4eG+Pv7i5evs/v79yu7S3/DV7/498Yv24=
+eH+4ufQ3Ozu/v7+y13sRqwAAADLSURBVHjaZc/XDsFgGIBhtDrshlitmk2IrbHFqL2pvXf/+78D=
+Pokj7+Fz9qpU/9UXJIlhmPaTaQ6QPaz0mm+5gwkgovcV6GZzd5JtCQwgsxoHOvJO15kleRLAnMg=
+HFIESUEPmawB9ngmelTtipwwfASilxOLyiV5UVUyVAfbG0cCPHig+GBkzAENHS0AstVF6bacZIO=
+zgLmxsHbt2OecNgJC83JERmePUYq8ARGkJx6XtFsdddBQgZE2nPR6CICZhawjA4Fb/chv+399kf=
+R+MMMDGOQAAAABJRU5ErkJggg=3D=3D"); background-repeat: no-repeat; background=
+-position: 2px center; }
+
+.ace_gutter-cell.ace_warning { background-image: url("data:image/png;base64=
+,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEX///8AAAD///8AAAAAAA=
+BPSzb/5sAAAAB/blH/73z/ulkAAAAAAAD85pkAAAAAAAACAgP/vGz/rkDerGbGrV7/pkQICAf//=
+//e0IsAAAD/oED/qTvhrnUAAAD/yHD/njcAAADuv2r/nz//oTj/p064oGf/zHAAAAA9Nir/tFIA=
+AAD/tlTiuWf/tkIAAACynXEAAAAAAAAtIRW7zBpBAAAAM3RSTlMAABR1m7RXO8Ln31Z36zT+neX=
+e5OzooRDfn+TZ4p3h2hTf4t3k3ucyrN1K5+Xaks52Sfs9CXgrAAAAjklEQVR42o3PbQ+CIBQFYE=
+wboPhSYgoYunIqqLn6/z8uYdH8Vmdnu9vz4WwXgN/xTPRD2+sgOcZjsge/whXZgUaYYvT8QnuJa=
+UrjrHUQreGczuEafQCO/SJTufTbroWsPgsllVhq3wJEk2jUSzX3CUEDJC84707djRc5MTAQxoLg=
+upWRwW6UB5fS++NV8AbOZgnsC7BpEAAAAABJRU5ErkJggg=3D=3D"); background-position=
+: 2px center; }
+
+.ace_gutter-cell.ace_info { background-image: url("data:image/png;base64,iV=
+BORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJb=
+WFnZVJlYWR5ccllPAAAAAJ0Uk5TAAB2k804AAAAPklEQVQY02NgIB68QuO3tiLznjAwpKTgNyDb=
+MegwisCHZUETUZV0ZqOquBpXj2rtnpSJT1AEnnRmL2OgGgAAIKkRQap2htgAAAAASUVORK5CYII=
+=3D"); background-position: 2px center; }
+
+.ace_dark .ace_gutter-cell.ace_info { background-image: url("data:image/png=
+;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJFBMVEUAAAChoaGAgIA=
+qKiq+vr6tra1ZWVmUlJSbm5s8PDxubm56enrdgzg3AAAAAXRSTlMAQObYZgAAAClJREFUeNpjYM=
+APdsMYHegyJZFQBlsUlMFVCWUYKkAZMxZAGdxlDMQBAG+TBP4B6RyJAAAAAElFTkSuQmCC"); }
+
+.ace_scrollbar { contain: strict; position: absolute; right: 0px; bottom: 0=
+px; z-index: 6; }
+
+.ace_scrollbar-inner { position: absolute; cursor: text; left: 0px; top: 0p=
+x; }
+
+.ace_scrollbar-v { overflow: hidden scroll; top: 0px; }
+
+.ace_scrollbar-h { overflow: scroll hidden; left: 0px; }
+
+.ace_print-margin { position: absolute; height: 100%; }
+
+.ace_text-input { position: absolute; z-index: 0; width: 0.5em; height: 1em=
+; opacity: 0; background: transparent; appearance: none; border: none; resi=
+ze: none; outline: none; overflow: hidden; font: inherit; padding: 0px 1px;=
+ margin: 0px -1px; contain: strict; user-select: text; white-space: pre !im=
+portant; }
+
+.ace_text-input.ace_composition { background: transparent; color: inherit; =
+z-index: 1000; opacity: 1; }
+
+.ace_composition_placeholder { color: transparent; }
+
+.ace_composition_marker { border-bottom: 1px solid; position: absolute; bor=
+der-radius: 0px; margin-top: 1px; }
+
+[ace_nocontext=3D"true"] { z-index: auto; transform: none !important; filte=
+r: none !important; clip-path: none !important; mask: none !important; cont=
+ain: none !important; perspective: none !important; mix-blend-mode: initial=
+ !important; }
+
+.ace_layer { z-index: 1; position: absolute; overflow: hidden; overflow-wra=
+p: normal; white-space: pre; height: 100%; width: 100%; box-sizing: border-=
+box; pointer-events: none; }
+
+.ace_gutter-layer { position: relative; width: auto; text-align: right; poi=
+nter-events: auto; height: 1e+06px; contain: size layout style; }
+
+.ace_text-layer { position: absolute; height: 1e+06px; width: 1e+06px; cont=
+ain: size layout style; font: inherit !important; }
+
+.ace_text-layer > .ace_line, .ace_text-layer > .ace_line_group { contain: s=
+ize layout style; position: absolute; top: 0px; left: 0px; right: 0px; }
+
+.ace_hidpi .ace_text-layer, .ace_hidpi .ace_gutter-layer, .ace_hidpi .ace_c=
+ontent, .ace_hidpi .ace_gutter { contain: strict; will-change: transform; }
+
+.ace_hidpi .ace_text-layer > .ace_line, .ace_hidpi .ace_text-layer > .ace_l=
+ine_group { contain: strict; }
+
+.ace_cjk { display: inline-block; text-align: center; }
+
+.ace_cursor-layer { z-index: 4; }
+
+.ace_cursor { z-index: 4; position: absolute; box-sizing: border-box; borde=
+r-left: 2px solid; transform: translateZ(0px); }
+
+.ace_multiselect .ace_cursor { border-left-width: 1px; }
+
+.ace_slim-cursors .ace_cursor { border-left-width: 1px; }
+
+.ace_overwrite-cursors .ace_cursor { border-left-width: 0px; border-bottom:=
+ 1px solid; }
+
+.ace_hidden-cursors .ace_cursor { opacity: 0.2; }
+
+.ace_hasPlaceholder .ace_hidden-cursors .ace_cursor { opacity: 0; }
+
+.ace_smooth-blinking .ace_cursor { transition: opacity 0.18s ease 0s; }
+
+.ace_animate-blinking .ace_cursor { animation-duration: 1000ms; animation-t=
+iming-function: step-end; animation-name: blink-ace-animate; animation-iter=
+ation-count: infinite; }
+
+.ace_animate-blinking.ace_smooth-blinking .ace_cursor { animation-duration:=
+ 1000ms; animation-timing-function: ease-in-out; animation-name: blink-ace-=
+animate-smooth; }
+
+@keyframes blink-ace-animate {=20
+  0%, 100% { opacity: 1; }
+  60% { opacity: 0; }
+}
+
+@keyframes blink-ace-animate-smooth {=20
+  0%, 100% { opacity: 1; }
+  45% { opacity: 1; }
+  60% { opacity: 0; }
+  85% { opacity: 0; }
+}
+
+.ace_marker-layer .ace_step, .ace_marker-layer .ace_stack { position: absol=
+ute; z-index: 3; }
+
+.ace_marker-layer .ace_selection { position: absolute; z-index: 5; }
+
+.ace_marker-layer .ace_bracket { position: absolute; z-index: 6; }
+
+.ace_marker-layer .ace_error_bracket { position: absolute; border-bottom: 1=
+px solid rgb(222, 85, 85); border-radius: 0px; }
+
+.ace_marker-layer .ace_active-line { position: absolute; z-index: 2; }
+
+.ace_marker-layer .ace_selected-word { position: absolute; z-index: 4; box-=
+sizing: border-box; }
+
+.ace_line .ace_fold { box-sizing: border-box; display: inline-block; height=
+: 11px; margin-top: -2px; vertical-align: middle; background-image: url("da=
+ta:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAJCAYAAADU6McMAAAAGXRFWHR=
+Tb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJpJREFUeNpi/P//PwOlgAXGYGRklAVSok=
+D8GmjwY1wasKljQpYACtpCFeADcHVQfQyMQAwzwAZI3wJKvCLkfKBaMSClBlR7BOQikCFGQEErI=
+H0VqkabiGCAqwUadAzZJRxQr/0gwiXIal8zQQPnNVTgJ1TdawL0T5gBIP1MUJNhBv2HKoQHHjqN=
+rA4WO4zY0glyNKLT2KIfIMAAQsdgGiXvgnYAAAAASUVORK5CYII=3D"), url("data:image/p=
+ng;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA3CAYAAADNNiA5AAAAGXRFWHRTb2Z0d2FyZ=
+QBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACJJREFUeNpi+P//fxgTAwPDBxDxD078RSX+YeEyDFMC=
+IMAAI3INmXiwf2YAAAAASUVORK5CYII=3D"); background-repeat: no-repeat, repeat-=
+x; background-position: center center, left top; color: transparent; border=
+: 1px solid black; border-radius: 2px; cursor: pointer; pointer-events: aut=
+o; }
+
+.ace_dark .ace_fold { }
+
+.ace_fold:hover { background-image: url("data:image/png;base64,iVBORw0KGgoA=
+AAANSUhEUgAAABEAAAAJCAYAAADU6McMAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR=
+5ccllPAAAAJpJREFUeNpi/P//PwOlgAXGYGRklAVSokD8GmjwY1wasKljQpYACtpCFeADcHVQfQ=
+yMQAwzwAZI3wJKvCLkfKBaMSClBlR7BOQikCFGQEErIH0VqkabiGCAqwUadAzZJRxQr/0gwiXIa=
+l8zQQPnNVTgJ1TdawL0T5gBIP1MUJNhBv2HKoQHHjqNrA4WO4zY0glyNKLT2KIfIMAAQsdgGiXv=
+gnYAAAAASUVORK5CYII=3D"), url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUg=
+AAAAEAAAA3CAYAAADNNiA5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA=
+CBJREFUeNpi+P//fz4TAwPDZxDxD5X4i5fLMEwJgAADAEPVDbjNw87ZAAAAAElFTkSuQmCC"); =
+}
+
+.ace_tooltip { background-color: rgb(255, 255, 255); background-image: line=
+ar-gradient(transparent, rgba(0, 0, 0, 0.1)); border: 1px solid gray; borde=
+r-radius: 1px; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px; color: black; ma=
+x-width: 100%; padding: 3px 4px; position: fixed; z-index: 999999; box-sizi=
+ng: border-box; cursor: default; white-space: pre; overflow-wrap: break-wor=
+d; line-height: normal; font-style: normal; font-weight: normal; letter-spa=
+cing: normal; pointer-events: none; }
+
+.ace_folding-enabled > .ace_gutter-cell { padding-right: 13px; }
+
+.ace_fold-widget { box-sizing: border-box; margin: 0px -12px 0px 1px; displ=
+ay: none; width: 11px; vertical-align: top; background-image: url("data:ima=
+ge/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAANElEQVR42mWKs=
+Q0AMAzC8ixLlrzQjzmBiEjp0A6WwBCSPgKAXoLkqSot7nN3yMwR7pZ32NzpKkVoDBUxKAAAAABJ=
+RU5ErkJggg=3D=3D"); background-repeat: no-repeat; background-position: cent=
+er center; border-radius: 3px; border: 1px solid transparent; cursor: point=
+er; }
+
+.ace_folding-enabled .ace_fold-widget { display: inline-block; }
+
+.ace_fold-widget.ace_end { background-image: url("data:image/png;base64,iVB=
+ORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAANElEQVR42m3HwQkAMAhD0YzsRchFKI=
+7sAikeWkrxwScEB0nh5e7KTPWimZki4tYfVbX+MNl4pyZXejUO1QAAAABJRU5ErkJggg=3D=3D"=
+); }
+
+.ace_fold-widget.ace_closed { background-image: url("data:image/png;base64,=
+iVBORw0KGgoAAAANSUhEUgAAAAMAAAAGCAYAAAAG5SQMAAAAOUlEQVR42jXKwQkAMAgDwKwqKD4=
+EwQ26sSOkVWjgIIHAzPiCgaqiqnJHZnKICBERHN194O5b9vbLuAVRL+l0YWnZAAAAAElFTkSuQm=
+CCXA=3D=3D"); }
+
+.ace_fold-widget:hover { border: 1px solid rgba(0, 0, 0, 0.3); background-c=
+olor: rgba(255, 255, 255, 0.2); box-shadow: rgba(255, 255, 255, 0.7) 0px 1p=
+x 1px; }
+
+.ace_fold-widget:active { border: 1px solid rgba(0, 0, 0, 0.4); background-=
+color: rgba(0, 0, 0, 0.05); box-shadow: rgba(255, 255, 255, 0.8) 0px 1px 1p=
+x; }
+
+.ace_dark .ace_fold-widget { background-image: url("data:image/png;base64,i=
+VBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHklEQVQIW2P4//8/AzoGEQ7oGCaL=
+LAhWiSwB146BAQCSTPYocqT0AAAAAElFTkSuQmCC"); }
+
+.ace_dark .ace_fold-widget.ace_end { background-image: url("data:image/png;=
+base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAH0lEQVQIW2P4//8/AxQ7=
+wNjIAjDMgC4AxjCVKBirIAAF0kz2rlhxpAAAAABJRU5ErkJggg=3D=3D"); }
+
+.ace_dark .ace_fold-widget.ace_closed { background-image: url("data:image/p=
+ng;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAYAAACAcVaiAAAAHElEQVQIW2P4//+/A=
+xAzgDADlOOAznHAKgPWAwARji8UIDTfQQAAAABJRU5ErkJggg=3D=3D"); }
+
+.ace_dark .ace_fold-widget:hover { box-shadow: rgba(255, 255, 255, 0.2) 0px=
+ 1px 1px; background-color: rgba(255, 255, 255, 0.1); }
+
+.ace_dark .ace_fold-widget:active { box-shadow: rgba(255, 255, 255, 0.2) 0p=
+x 1px 1px; }
+
+.ace_inline_button { border: 1px solid lightgray; display: inline-block; ma=
+rgin: -1px 8px; padding: 0px 5px; pointer-events: auto; cursor: pointer; }
+
+.ace_inline_button:hover { border-color: gray; background: rgba(200, 200, 2=
+00, 0.2); display: inline-block; pointer-events: auto; }
+
+.ace_fold-widget.ace_invalid { background-color: rgb(255, 180, 180); border=
+-color: rgb(222, 85, 85); }
+
+.ace_fade-fold-widgets .ace_fold-widget { transition: opacity 0.4s ease 0.0=
+5s; opacity: 0; }
+
+.ace_fade-fold-widgets:hover .ace_fold-widget { transition: opacity 0.05s e=
+ase 0.05s; opacity: 1; }
+
+.ace_underline { text-decoration: underline; }
+
+.ace_bold { font-weight: bold; }
+
+.ace_nobold .ace_bold { font-weight: normal; }
+
+.ace_italic { font-style: italic; }
+
+.ace_error-marker { background-color: rgba(255, 0, 0, 0.2); position: absol=
+ute; z-index: 9; }
+
+.ace_highlight-marker { background-color: rgba(255, 255, 0, 0.2); position:=
+ absolute; z-index: 8; }
+
+.ace_mobile-menu { position: absolute; line-height: 1.5; border-radius: 4px=
+; user-select: none; background: white; box-shadow: grey 1px 3px 2px; borde=
+r: 1px solid rgb(220, 220, 220); color: black; }
+
+.ace_dark > .ace_mobile-menu { background: rgb(51, 51, 51); color: rgb(204,=
+ 204, 204); box-shadow: grey 1px 3px 2px; border: 1px solid rgb(68, 68, 68)=
+; }
+
+.ace_mobile-button { padding: 2px; cursor: pointer; overflow: hidden; }
+
+.ace_mobile-button:hover { background-color: rgb(238, 238, 238); opacity: 1=
+; }
+
+.ace_mobile-button:active { background-color: rgb(221, 221, 221); }
+
+.ace_placeholder { font-family: arial; transform: scale(0.9); transform-ori=
+gin: left center; white-space: pre; opacity: 0.7; margin: 0px 10px; }
+------MultipartBoundary--n3R5o8AWGuoDqLpIyd0k0mkyNN0WOitaFHsRVgZChX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c3993382-ce30-46ca-92e9-de43ecb9a20c@mhtml.blink
+
+@charset "utf-8";
+
+#carbonads { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Ro=
+boto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, s=
+ans-serif; --width:728px; --font-size:22px; }
+
+#carbonads { display: block; overflow: hidden; max-width: var(--width); pos=
+ition: relative; background-color: rgb(252, 252, 252); border: 1px solid rg=
+b(238, 238, 238); font-size: var(--font-size); box-sizing: border-box; marg=
+in: 36px 0px; max-height: 90px; }
+
+.detail #carbonads { margin-top: 12px; }
+
+#carbonads a { color: inherit; text-decoration: none; }
+
+#carbonads a:hover { color: inherit; }
+
+.carbon-wrap { display: flex; align-items: center; }
+
+carbon-img { display: block; float: left; margin: 0px; max-width: var(--wid=
+th); line-height: 1; }
+
+.carbon-img img { display: block; margin: 0px; height: 90px; width: auto; }
+
+.carbon-text { display: block; float: left; padding: 0px 1em; line-height: =
+1.35; max-width: calc((100% - 130px) - 2em); text-align: left; }
+
+.carbon-poweredby { display: block; position: absolute; bottom: 0px; right:=
+ 0px; padding: 6px 10px; background: repeating-linear-gradient(-45deg, tran=
+sparent, transparent 5px, rgba(0, 0, 0, 0.024) 5px, rgba(0, 0, 0, 0.024) 10=
+px) rgba(241, 243, 244, 0.8); text-align: center; text-transform: uppercase=
+; letter-spacing: 0.5px; font-weight: 601; font-size: 8px; border-top-left-=
+radius: 4px; line-height: 1; }
+
+@media only screen and (max-width: 759px) and (min-width: 320px) {
+  .carbon-text { font-size: 14px; }
+}
+------MultipartBoundary--n3R5o8AWGuoDqLpIyd0k0mkyNN0WOitaFHsRVgZChX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.programiz.com/python-programming/online-compiler/playground.css?v=1fsaf
+
+@charset "utf-8";
+
+@font-face { font-family: droid_sans_monoregular; src: url("assets/fonts/dr=
+oidsansmono-webfont.woff2") format("woff2"), url("assets/fonts/droidsansmon=
+o-webfont.woff") format("woff"); font-weight: normal; font-style: normal; f=
+ont-display: swap; }
+
+@font-face { font-family: euclid_circular; src: url("assets/fonts/euclidcir=
+culara-regular-webfont.woff2") format("woff2"), url("assets/fonts/euclidcir=
+culara-regular-webfont.woff") format("woff"); font-weight: normal; font-sty=
+le: normal; font-display: swap; }
+
+html, body { margin: 0px; padding: 0px; width: 100%; height: 100%; overflow=
+: hidden; }
+
+button { outline: none; }
+
+.clearfix::before, .clearfix::after { content: " "; display: table; }
+
+.clearfix::after { clear: both; }
+
+.container { width: 100vw; height: 100vh; overflow: auto; }
+
+.wrapper { display: none; }
+
+.svg path { opacity: 1; fill-opacity: 1; stroke-opacity: 1; }
+
+.ace_mobile-menu { display: none !important; }
+
+.compiler-header-ad { padding: 4px 0px; margin: auto; display: none; }
+
+#carbonads { margin: 0px !important; }
+
+#feedback-desktop { display: none; }
+
+#feedback-mobile svg, #feedback-desktop svg { transform: rotateY(-180deg); =
+width: 20px; height: 20px; }
+
+#feedback-mobile svg path, #feedback-desktop svg path { stroke: rgb(5, 86, =
+243); }
+
+#editor, #terminal { width: 100%; }
+
+.mobile-top-bar { display: block; position: relative; padding: 7px; border-=
+bottom: 1px solid rgb(211, 220, 230); }
+
+.options-wrapper, .pills-wrapper, .other-options-wrapper { float: left; }
+
+.options-wrapper { width: 25%; }
+
+.pills-wrapper { width: 50%; }
+
+.other-options-wrapper { float: right; width: 25%; }
+
+.other-options-wrapper .options-item-wrapper { float: right; }
+
+.options-item-wrapper { padding: 5px 7px; font-size: 20px; }
+
+.options-item { width: 20px; height: 20px; float: left; }
+
+#back-button path { fill: rgba(37, 38, 94, 0.4); }
+
+#back-button:hover path { fill: rgb(5, 86, 243); }
+
+.editor-wrapper, .terminal-wrapper, .ace_editor, .ace_gutter, .ace_gutter-a=
+ctive-line, .ace_gutter-cell { background: rgb(245, 245, 245); }
+
+.terminal-wrapper { display: none; }
+
+.editor-desktop-top-bar, .terminal-desktop-top-bar { background: rgb(251, 2=
+51, 251); height: 48px; }
+
+.editor-desktop-top-bar, .terminal-desktop-top-bar { display: none; }
+
+.header { display: flex; justify-content: space-between; background-color: =
+rgb(255, 255, 255); height: 51px; border-bottom: 1px solid rgb(211, 220, 23=
+0); }
+
+.logo-wrapper, .mobile-top-bar { background: rgb(255, 255, 255); }
+
+.logo-wrapper { display: flex; align-items: center; color: rgba(37, 38, 94,=
+ 0.7); font-family: euclid_circular, sans-serif; }
+
+.logo-title-wrapper { margin: 0px; display: inline-block; }
+
+.logo-title-wrapper .logo-sub-title-wrapper { font-size: 14px; vertical-ali=
+gn: middle; font-weight: normal; }
+
+.logo-link { display: flex; flex-direction: column; margin-left: 16px; }
+
+#mobile-ad { display: grid; align-items: center; justify-content: center; b=
+ackground: rgb(241, 241, 241); padding-top: 5px; padding-bottom: 2px; }
+
+.editor-wrapper { height: calc(100vh - 90px); }
+
+.sidebar-wrapper { width: 0px; display: none; }
+
+#toggle-dark-mode-desktop, #toggle-expanded-mode-desktop { display: none; }
+
+#toggle-dark-mode-mobile { background: none; }
+
+.toggle-dark-mode-mobile-icon.sun { display: none; }
+
+.toggle-dark-mode-mobile-icon.sun path, .toggle-dark-mode-mobile-icon.sun c=
+ircle, .toggle-dark-mode-mobile-icon.sun line { stroke: rgb(255, 255, 255);=
+ }
+
+.toggle-dark-mode-mobile-icon.moon { display: block; }
+
+.toggle-dark-mode-mobile-icon.moon path { stroke: rgba(37, 38, 94, 0.4); }
+
+.toggle-expanded-mode-mobile-icon path, .change-lang-btn-icon path { fill: =
+rgba(37, 38, 94, 0.4); }
+
+.dark-mode .toggle-expanded-mode-mobile-icon path, .dark-mode .change-lang-=
+btn-icon path { fill: rgb(255, 255, 255); }
+
+.dark-mode #editor, .dark-mode #terminal { color: rgb(238, 238, 238); }
+
+.change-lang-btn-icon { height: 24px; width: 24px; }
+
+#add-replacement { display: none; width: 728px; }
+
+#logo { width: 53px; }
+
+#nav-logo { width: 68px; height: 23px; }
+
+.logo-title-wrapper { text-align: left; transform: translateX(0px); left: 0=
+px; }
+
+.logo-title-wrapper .logo-sub-title-wrapper { font-size: 10px; line-height:=
+ 15px; vertical-align: middle; margin-top: 5px; }
+
+#feedback-mobile { font-family: euclid_circular, sans-serif; display: block=
+; }
+
+#feedback-mobile a { text-decoration: none; border: 1px solid rgb(5, 86, 24=
+3); color: rgb(5, 86, 243); font-size: 12px; box-sizing: border-box; border=
+-radius: 4px; padding: 6px 16px; float: right; margin-right: 16px; margin-t=
+op: 12px; background-color: rgb(245, 248, 255); font-weight: 500; line-heig=
+ht: 16px; }
+
+.burger-menu-btn { padding: 0px 0px 0px 16px; border: none; background-colo=
+r: transparent; }
+
+.burger-menu { display: flex; align-items: center; }
+
+.header-wrapper { display: flex; }
+
+.visible .nav-backdrop, .visible .nav-menu { left: 0px; }
+
+.mobile-nav-drawer { display: none; position: relative; }
+
+.show.mobile-nav-drawer { display: block; position: relative; }
+
+.nav-header-wrapper { display: flex; justify-content: space-between; }
+
+.close-nav-btn { margin: 0px 20px 0px 0px; border: none; background: transp=
+arent; }
+
+.close-nav-btn svg path { stroke: rgba(37, 38, 94, 0.7); }
+
+.nav-backdrop { position: absolute; background-color: rgba(0, 0, 0, 0.6); z=
+-index: 999; top: 0px; left: -999px; width: 100vw; height: 100vh; }
+
+.nav-menu { font-family: euclid_circular, sans-serif; z-index: 1000; width:=
+ calc(100vw - 52px); height: 100vh; position: absolute; left: -999px; top: =
+0px; background-color: rgb(255, 255, 255); box-sizing: border-box; padding:=
+ 26px 0px 26px 24px; transition: all 300ms ease 0s; }
+
+.change-lang-row .change-lang-btn { display: flex; text-align: center; back=
+ground: transparent; border-radius: 2px; border: 1px solid rgb(211, 220, 23=
+0); padding: 7px; }
+
+.nav-menu-list { padding-top: 40px; }
+
+.change-lang-row { display: inline-flex; align-items: center; margin-bottom=
+: 16px; width: 100%; box-sizing: border-box; }
+
+.change-lang-row:link, .change-lang-row:visited { text-decoration: inherit;=
+ color: inherit; }
+
+.nav-menu-text { margin-left: 16px; font-weight: 500; font-size: 14px; line=
+-height: 20px; }
+
+.active .nav-menu-text { color: rgb(5, 86, 243); }
+
+.change-lang-btn path { }
+
+.active .change-lang-btn { background: rgb(5, 86, 243); border: 1px solid r=
+gb(5, 86, 243); }
+
+.active .change-lang-btn path { fill: rgb(255, 255, 255); }
+
+.active.change-lang-row { border-right: 2px solid rgb(5, 86, 243); }
+
+#div-gpt-ad-Programizcom36417 { width: 320px; margin: 0px auto; }
+
+@media screen and (min-width: 800px) {
+  .header { height: 90px; display: grid; grid-template-columns: 2fr 5fr 2fr=
+; background: rgb(255, 255, 255); }
+  .compiler-header-ad { padding: 0px; }
+  .logo-wrapper { background: none; }
+  .logo-link { display: flex; flex-direction: column; margin-left: 56px; }
+  .logo-title-wrapper { text-align: left; transform: translateX(0px); margi=
+n-left: 0px; left: 0px; }
+  .logo-title-wrapper .logo-sub-title-wrapper { font-size: 14px; line-heigh=
+t: 20px; vertical-align: middle; }
+  .logo-sub-title-wrapper .logo-sub-title { display: block; }
+  #logo { width: 84px; height: 28px; }
+  #feedback-desktop { font-family: euclid_circular, sans-serif; display: fl=
+ex; align-items: center; justify-content: flex-end; }
+  #feedback-desktop a { text-decoration: none; border: 1px solid rgb(5, 86,=
+ 243); color: rgb(5, 86, 243); font-size: 14px; box-sizing: border-box; bor=
+der-radius: 4px; padding: 10px 16px; float: right; margin-right: 48px; back=
+ground-color: rgb(245, 248, 255); font-weight: 500; }
+  .sidebar-wrapper { display: block; box-sizing: border-box; width: 57px; b=
+ackground: rgb(239, 242, 247); float: left; padding: 8px; height: calc(100v=
+h - 90px); border-top: 1px solid rgb(211, 220, 230); border-right: 1px soli=
+d rgb(211, 220, 230); }
+  .editor-wrapper { height: calc(100vh - 90px); }
+  .editor-wrapper #toggle-dark-mode-desktop, .editor-wrapper #toggle-expand=
+ed-mode-desktop { padding: 6px; margin-left: 16px; }
+  .sidebar-wrapper .change-lang-btn { padding: 7px; margin-bottom: 16px; }
+  .editor-wrapper #toggle-dark-mode-desktop, .editor-wrapper #toggle-expand=
+ed-mode-desktop, .sidebar-wrapper .change-lang-btn { display: flex; text-al=
+ign: center; background: transparent; border-radius: 2px; border: 1px solid=
+ rgb(211, 220, 230); }
+  .change-lang-btn path { }
+  .change-lang-btn.active { background: rgb(5, 86, 243); border: 1px solid =
+rgb(5, 86, 243); }
+  .change-lang-btn.active path { fill: rgb(255, 255, 255); }
+  .terminal-desktop-top-bar { display: block; }
+  .editor-desktop-top-bar { display: flex; justify-content: space-between; =
+}
+  .mobile-top-bar { display: none; }
+  .mobile-run-button { display: none; }
+  .editor-wrapper, .terminal-wrapper { width: calc((50% - 1px) - 28px); flo=
+at: left; }
+  .editor-wrapper { border-right: 1px solid rgb(211, 220, 230); }
+  .terminal-wrapper { display: block; }
+  .editor-desktop-top-bar { display: flex; justify-content: space-between; =
+}
+  .desktop-top-bar__btn-wrapper { display: flex; flex: 1 1 0%; align-items:=
+ center; justify-content: flex-end; border-top: 1px solid rgb(211, 220, 230=
+); border-bottom: 1px solid rgb(211, 220, 230); }
+  .terminal-desktop-top-bar { display: flex; justify-content: space-between=
+; }
+  .terminal-desktop-top-bar__btn-wrapper { display: flex; flex: 1 1 0%; ali=
+gn-items: center; justify-content: flex-end; border-top: 1px solid rgb(211,=
+ 220, 230); border-bottom: 1px solid rgb(211, 220, 230); font-family: eucli=
+d_circular; }
+  .toggle-expanded-mode-mobile-icon.minimize { display: none; }
+  .maximized .toggle-expanded-mode-mobile-icon.expand { display: none; }
+  .maximized .toggle-expanded-mode-mobile-icon.minimize { display: block; }
+  .maximized .logo-link { margin-left: 24px; flex-direction: row; }
+  .dark-mode.maximized .logo-link { align-items: center; }
+  .maximized .compiler-header-ad { display: none; }
+  .maximized #add-replacement { display: block; }
+  .maximized #feedback-desktop a { margin-right: 25px; }
+  .maximized .header { height: 49px; }
+  .maximized .logo-sub-title-wrapper { margin-left: 11px; }
+  .maximized #logo { width: 66px; height: 22px; }
+  .maximized .editor-wrapper { width: calc(50% - 1px); height: calc(100vh -=
+ 49px); }
+  .maximized .terminal-wrapper { width: calc(50% - 1px); }
+  .maximized .sidebar-wrapper { display: none; }
+  .maximized .header { grid-template-columns: 3fr 4fr 2fr; }
+  .maximized #add-replacement { width: 0px; }
+}
+
+@media screen and (min-width: 1150px) {
+  #div-gpt-ad-Programizcom36416 { width: 720px; padding-top: 30px; margin: =
+0px auto; }
+}
+
+.pill { background: rgb(255, 255, 255); color: rgba(51, 51, 51, 0.6); paddi=
+ng: 4px 15px; font-size: 14px; line-height: 20px; box-shadow: none; font-fa=
+mily: euclid_circular; width: 50%; border-width: 1px; border-style: solid; =
+border-color: rgba(0, 0, 0, 0.12) rgb(255, 255, 255); border-image: initial=
+; box-sizing: border-box; float: left; }
+
+.pill:first-child { border-radius: 2px 0px 0px 2px; border-left-color: rgba=
+(0, 0, 0, 0.12); border-right-color: rgb(255, 255, 255); }
+
+.pill:last-child { border-radius: 0px 2px 2px 0px; border-left-color: rgb(2=
+55, 255, 255); border-right-color: rgba(0, 0, 0, 0.12); }
+
+.pill.active { border: 1px solid rgb(5, 86, 243); color: rgb(5, 86, 243); }
+
+.run { cursor: pointer; padding: 6px 16px; background: rgb(5, 86, 243); fon=
+t-size: 14px; line-height: 20px; color: rgb(255, 255, 255); border: none; o=
+utline: none; border-radius: 2px; z-index: 109; font-weight: bold; }
+
+.run:hover { background: rgb(0, 71, 209); }
+
+.desktop-run-button { float: right; margin: 0px 20px 0px 16px; font-family:=
+ euclid_circular; }
+
+.desktop-clear-button { cursor: pointer; padding: 6px 16px; background: non=
+e; font-size: 14px; line-height: 20px; color: rgba(37, 38, 94, 0.7); outlin=
+e: none; z-index: 109; margin: 0px 20px 0px 16px; border: 1px solid rgb(211=
+, 220, 230); box-sizing: border-box; border-radius: 2px; font-family: eucli=
+d_circular; }
+
+.mobile-run-button { position: fixed; bottom: 20px; right: 20px; }
+
+.wrapper { height: 100%; background: rgb(245, 245, 245); }
+
+.sidebar { height: 100%; background: rgb(238, 242, 247); border-right: 1px =
+solid rgb(211, 220, 230); }
+
+ul.option-buttons { list-style: none; padding: 0px 10px; }
+
+li.option-button { margin-bottom: 16px; }
+
+li.option-button button { height: 36px; width: 36px; border-radius: 2px; ba=
+ckground: white; border: 1px solid rgb(211, 220, 230); margin: 0px auto; }
+
+.code-editor-wrapper { position: relative; }
+
+.pane-separator-vertical, .pane-separator-horizontal { background: rgb(211,=
+ 220, 230); position: relative; z-index: 10000; }
+
+.pane-separator-vertical { height: 100%; }
+
+.pane-separator img { position: absolute; left: 50%; top: 50%; transform: t=
+ranslate(-50%, -50%); }
+
+.code-editor-top-bar { height: 56px; background: rgb(251, 251, 251); border=
+-bottom: 1px solid rgb(211, 220, 230); z-index: 1000; display: block; }
+
+.file-name, .shell-name { color: rgba(37, 38, 94, 0.7); }
+
+.file-name { display: inline-flex; align-items: center; background: rgb(245=
+, 245, 245); line-height: 24px; padding: 12px 24px; border-right: 1px solid=
+ rgb(211, 220, 230); border-top: 1px solid rgb(211, 220, 230); border-botto=
+m: 1px solid rgb(245, 245, 245); font-family: euclid_circular; font-weight:=
+ 500; font-size: 16px; }
+
+.shell { width: 120px; line-height: 24px; padding: 16px 20px; border-right:=
+ 1px solid rgb(211, 220, 230); border-top: 1px solid rgb(211, 220, 230); fo=
+nt-family: Arial; float: left; background: rgb(5, 86, 243); color: white; c=
+ursor: pointer; }
+
+.shell-name { font-weight: 500; line-height: 24px; padding: 11px 18px; font=
+-family: euclid_circular; border-top: 1px solid rgb(211, 220, 230); border-=
+bottom: 1px solid rgb(211, 220, 230); }
+
+.run-icon { margin-right: 4px; }
+
+.spinner { height: 100%; width: 100%; display: flex; justify-content: cente=
+r; align-items: center; }
+
+.loader { color: rgb(5, 86, 243); font-family: Consolas, Menlo, Monaco, mon=
+ospace; font-weight: bold; font-size: 20vh; opacity: 0.8; }
+
+.loader span { display: inline-block; animation: 0.4s ease-in-out 0s infini=
+te alternate none running pulse; }
+
+.loader span:nth-child(2n+1) { animation-delay: 0.4s; }
+
+.back-button, .extra-options { display: grid; align-items: center; justify-=
+content: center; cursor: pointer; }
+
+.orientation { border: none; }
+
+.pills { max-width: 200px; text-align: center; margin: 0px auto; }
+
+button { cursor: pointer; }
+
+.logo-link:link, .logo-link:visited { text-decoration: inherit; color: inhe=
+rit; }
+
+@keyframes pulse {=20
+  100% { transform: scale(0.8); opacity: 0.5; }
+}
+
+.dark-mode, .dark-mode .header { background: rgb(31, 32, 35); }
+
+.dark-mode .logo-wrapper { color: rgb(255, 255, 255); }
+
+.dark-mode .file-name { background: rgb(28, 33, 48); color: rgb(255, 255, 2=
+55); border-right: 1px solid rgba(255, 255, 255, 0.2); border-top: 1px soli=
+d rgba(255, 255, 255, 0.2); border-bottom: 1px solid rgb(28, 33, 48); }
+
+.dark-mode .shell-name { color: rgb(255, 255, 255); border-top: 1px solid r=
+gba(255, 255, 255, 0.2); border-bottom: 1px solid rgba(255, 255, 255, 0.2);=
+ }
+
+.dark-mode .wrapper, .dark-mode .editor-wrapper, .dark-mode .ace_editor, .d=
+ark-mode .ace_gutter, .dark-mode .ace_gutter-active-line, .dark-mode .ace_g=
+utter-cell { background: rgb(28, 33, 48); }
+
+.dark-mode .editor-wrapper { border-right: none; }
+
+.dark-mode .editor-desktop-top-bar, .dark-mode .terminal-desktop-top-bar { =
+background: rgb(45, 47, 52); color: rgb(255, 255, 255); }
+
+.dark-mode #feedback-desktop a { color: rgb(255, 255, 255); border: 1px sol=
+id rgb(255, 255, 255); background-color: transparent; }
+
+.dark-mode #feedback-mobile a { color: rgb(255, 255, 255); border: 1px soli=
+d rgb(255, 255, 255); background-color: transparent; }
+
+.dark-mode #feedback-mobile svg path, .dark-mode #feedback-desktop svg path=
+ { stroke: rgb(255, 255, 255); fill: none; }
+
+.dark-mode .logo-wrapper { background: rgb(31, 32, 35); }
+
+.dark-mode .mobile-top-bar { background: rgb(45, 47, 52); border-bottom: 1p=
+x solid rgba(255, 255, 255, 0.2); }
+
+.dark-mode .pill { background: transparent; border: 1px solid rgba(255, 255=
+, 255, 0.2); color: rgb(255, 255, 255); }
+
+.dark-mode .pill.active { background: rgb(5, 86, 243); border-color: rgb(5,=
+ 86, 243); }
+
+.dark-mode .spinner .loader { color: rgb(255, 255, 255); }
+
+.dark-mode #back-button path { fill: rgb(255, 255, 255); }
+
+.dark-mode #back-button:hover path { fill: rgb(5, 86, 243); }
+
+.dark-mode .toggle-dark-mode-mobile-icon.sun { display: block; }
+
+.dark-mode .toggle-dark-mode-mobile-icon.moon { display: none; }
+
+.dark-mode #toggle-dark-mode-desktop, .dark-mode #toggle-expanded-mode-desk=
+top, .dark-mode .change-lang-btn { border: 1px solid rgba(255, 255, 255, 0.=
+2); }
+
+.dark-mode .active .change-lang-btn { border: 1px solid rgb(5, 86, 243); }
+
+.dark-mode .close-nav-btn svg path { stroke: rgba(255, 255, 255, 0.87); }
+
+.dark-mode .desktop-top-bar__btn-wrapper, .dark-mode .terminal-desktop-top-=
+bar__btn-wrapper { border-top: 1px solid rgba(255, 255, 255, 0.2); border-b=
+ottom: 1px solid rgba(255, 255, 255, 0.2); }
+
+.dark-mode .desktop-clear-button { color: rgb(255, 255, 255); }
+
+.dark-mode .burger-menu-btn svg path { stroke: rgba(255, 255, 255, 0.87); }
+
+.dark-mode .active .nav-menu-text svg path { stroke: rgb(255, 255, 255); }
+
+.dark-mode .nav-menu { background: rgb(56, 59, 64); }
+
+.dark-mode .nav-menu-text { color: rgba(255, 255, 255, 0.67); }
+
+.dark-mode .active .nav-menu-text { color: rgb(255, 255, 255); }
+
+.dark-mode .active.change-lang-row { border-right: 2px solid rgb(255, 255, =
+255); }
+
+@media screen and (min-width: 800px) {
+  .dark-mode .logo-wrapper { background: none; }
+  .dark-mode .editor-wrapper { border-right: 1px solid rgba(255, 255, 255, =
+0.2); }
+  .dark-mode .sidebar-wrapper { background: rgb(56, 59, 64); border-top: 1p=
+x solid rgba(255, 255, 255, 0.2); border-right: 1px solid rgba(255, 255, 25=
+5, 0.2); }
+  .dark-mode .editor-wrapper #toggle-dark-mode-desktop { background: transp=
+arent; }
+  .header { height: 90px; border-bottom: none; }
+  .compiler-header-ad { display: block; }
+  #feedback-mobile { display: none; }
+  .burger-menu { display: none; }
+  .show.mobile-nav-drawer { display: none; }
+}
+------MultipartBoundary--n3R5o8AWGuoDqLpIyd0k0mkyNN0WOitaFHsRVgZChX----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.programiz.com/python-programming/online-compiler/assets/logos/logo-inverted.svg
+
+<svg width=3D"67" height=3D"23" viewBox=3D"0 0 67 23" fill=3D"none" xmlns=
+=3D"http://www.w3.org/2000/svg">
+  <path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M1.95391 1.54778C4=
+.01754 2.94204 6.38039 4.53846 8.13999 5.76561L4.87298 7.64145V5.24858L4.87=
+291 5.2427V4.77893C4.87291 4.65401 4.73764 4.57596 4.62948 4.63848L1.30371 =
+6.56099C1.25356 6.58998 1.22267 6.64352 1.22267 6.70145V10.111L1.22267 10.1=
+13V13.906L1.22271 13.906V14.343L1.22273 14.343L1.22271 14.3375L1.22274 14.3=
+304V18.1444C1.22274 18.234 1.29538 18.3066 1.38498 18.3066H4.71074C4.80034 =
+18.3066 4.87298 18.234 4.87298 18.1444V11.7984L10.8502 8.34747C10.8963 8.32=
+082 10.9384 8.28899 10.9758 8.25293C11.1024 8.132 11.1765 7.9631 11.1765 7.=
+78366V7.51084L11.1768 7.51069L11.1768 4.64367C11.1768 4.43036 11.0719 4.230=
+66 10.8964 4.10953L5.88433 0.651743C5.85725 0.633055 5.82512 0.623047 5.792=
+21 0.623047L1.11517 0.623077C0.955232 0.623078 0.891069 0.829483 1.02356 0.=
+919062L1.9539 1.54777L1.95391 1.54778ZM17.7969 16.3985C17.0205 16.3985 16.2=
+714 15.8356 16.2714 14.6962C16.2714 13.5431 17.0205 13.0077 17.7969 13.0077=
+C18.5869 13.0077 19.3224 13.5431 19.3224 14.6962C19.3224 15.8494 18.5869 16=
+.3985 17.7969 16.3985ZM17.7969 11.0857C15.781 11.0857 14.201 12.5821 14.201=
+ 14.6962C14.201 16.8103 15.781 18.3204 17.7969 18.3204C19.8264 18.3204 21.3=
+927 16.8103 21.3927 14.6962C21.3927 12.5821 19.8264 11.0857 17.7969 11.0857=
+ZM13.5153 11.2917C13.3791 11.2505 13.1748 11.223 12.9705 11.223C12.4256 11.=
+223 11.5675 11.4427 11.2134 12.2114V11.2917H9.21113V18.1145H11.2815V15.1355=
+C11.2815 13.7764 12.0306 13.2822 12.8615 13.2822C13.0658 13.2822 13.2837 13=
+.296 13.5153 13.3509V11.2917ZM25.6267 20.9287C23.6789 20.9287 22.4394 19.72=
+07 22.2487 18.4989L24.0739 17.9772C24.2101 18.6362 24.7549 19.1166 25.5313 =
+19.1166C26.5665 19.1166 27.2067 18.6087 27.2067 17.3732V17.0574C26.9615 17.=
+4281 26.3758 17.8262 25.3951 17.8262C23.5972 17.8262 22.2487 16.3985 22.248=
+7 14.504C22.2487 12.7057 23.5427 11.1681 25.3951 11.1681C26.4984 11.1681 27=
+.0841 11.6623 27.2748 12.0193V11.2917H29.2498V17.2634C29.2498 19.2265 28.16=
+01 20.9287 25.6267 20.9287ZM24.3191 14.504C24.3191 15.4375 24.9456 16.0141 =
+25.7765 16.0141C26.621 16.0141 27.2203 15.4375 27.2203 14.504C27.2203 13.57=
+05 26.5529 12.9939 25.7765 12.9939C25.0001 12.9939 24.3191 13.5705 24.3191 =
+14.504ZM35.3031 11.2917C35.1669 11.2505 34.9626 11.223 34.7583 11.223C34.21=
+35 11.223 33.3554 11.4427 33.0012 12.2114V11.2917H30.999V18.1145H33.0693V15=
+.1355C33.0693 13.7764 33.8185 13.2822 34.6493 13.2822C34.8536 13.2822 35.07=
+16 13.296 35.3031 13.3509V11.2917ZM38.5463 18.3067C37.0617 18.3067 36.2036 =
+17.3183 36.2036 16.2338C36.2036 15.0257 37.0889 14.3393 38.2058 14.1746L39.=
+7995 13.9274C40.1672 13.8725 40.2898 13.6941 40.2898 13.4607C40.2898 13.062=
+6 39.9493 12.7194 39.2955 12.7194C38.5736 12.7194 38.1786 13.2136 38.1377 1=
+3.7215L36.3398 13.3509C36.4215 12.3762 37.3205 11.0857 39.3091 11.0857C41.5=
+02 11.0857 42.3057 12.3213 42.3057 13.7215V17.0574C42.3057 17.5928 42.3738 =
+18.0459 42.3874 18.1145H40.5214C40.5077 18.0596 40.4533 17.8125 40.4533 17.=
+3457C40.0991 17.9223 39.4453 18.3067 38.5463 18.3067ZM38.2467 16.0965C38.24=
+67 16.4534 38.4782 16.7966 39.0503 16.7966C39.6632 16.7966 40.2898 16.4946 =
+40.2898 15.4375V15.1355L39.0095 15.3414C38.5736 15.4101 38.2467 15.616 38.2=
+467 16.0965ZM46.1181 18.1145V14.1883C46.1181 13.5705 46.5131 13.0077 47.235=
+ 13.0077C47.9841 13.0077 48.3246 13.5156 48.3246 14.1608V18.1145H50.3678V14=
+.1746C50.3678 13.5705 50.7628 13.0077 51.4983 13.0077C52.2338 13.0077 52.57=
+43 13.5156 52.5743 14.1608V18.1145H54.5766V13.6941C54.5766 11.8408 53.3507 =
+11.0857 52.0704 11.0857C51.1578 11.0857 50.504 11.3878 49.9728 12.1565C49.6=
+322 11.4839 48.9376 11.0857 47.9705 11.0857C47.235 11.0857 46.3633 11.4701 =
+46.0227 12.0742V11.2917H44.0477V18.1145H46.1181ZM66.805 16.3161V18.1145H61.=
+1251V16.2749L64.1081 13.0763H61.2069V11.2917H66.7505V13.0077L63.6314 16.316=
+1H66.805ZM58.8258 18.1005H56.4454L57.1457 13.6276H56.4454V11.1347H59.5219V1=
+3.6276L58.8258 18.1005ZM56.4454 6.63074H59.5219V9.58025H56.4454V6.63074Z" f=
+ill=3D"white"/>
+</svg>=0A
+------MultipartBoundary--n3R5o8AWGuoDqLpIyd0k0mkyNN0WOitaFHsRVgZChX------
